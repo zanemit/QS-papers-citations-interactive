@@ -69,6 +69,7 @@ app.layout = html.Div([
     dcc.Input(type="number", value=DEFAULT_ITERS, id="iters-input"),
 
     html.Br(), html.Br(),
+    dcc.Progress(id='progress-bar', value=0, max=100),
     html.Button("Simulēt rezultātus", id="run-button", n_clicks=0),
 
     html.H3("Rezultāti"),
@@ -165,7 +166,8 @@ def simulate_publications_and_citations(publication_data, asjc_data,
                                         PERC_TO_LOWER_Q4, PERC_TO_LOWER_Q3, 
                                         PERC_TO_LOWER_Q2, Q4_TO_Q3_EQUIVALENT=2, 
                                         Q4_TO_Q2_EQUIVALENT=4, Q4_TO_Q1_EQUIVALENT=8,
-                                 iters=1000, SELF_CITATION_FRACTION=0.37):
+                                 iters=1000, SELF_CITATION_FRACTION=0.37,
+                                       progress_callback=None):
     pub_df = merge_publications_with_asjc(publication_data, asjc_data)
 
     pub_df = pub_df.loc[:, [
@@ -199,8 +201,12 @@ def simulate_publications_and_citations(publication_data, asjc_data,
         # CURRENT PAPER NUMS
         papers_per_quartile = pub_df['journal_quartile'].value_counts().to_frame()
 
-        if it%100==0:
+        if it%10==0:
             print(f"Running iteration {it}...")
+
+        if progress_callback:
+            progress = 100*((it + 1) / iters)
+            progress_callback(progress)
 
         if it==0:
             initial_papers = papers_per_quartile.loc[:, 'count'].sum()
@@ -267,7 +273,8 @@ def simulate_publications_and_citations(publication_data, asjc_data,
     return initial_papers, initial_citations, initial_CPP, initial_H, final_papers, final_citations, simulated_CPP, simulated_H
 
 @app.callback(
-    Output("output-results", "children"),
+    [Output("output-results", "children"),
+    Output("progress-bar", 'value')],
     Input("run-button", "n_clicks"),
     [
         Input("q4-slider", "value"), 
@@ -284,6 +291,9 @@ def simulate_publications_and_citations(publication_data, asjc_data,
 def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q1, self_cite, iters_input):
     if n_clicks==0:
             return "Nospiediet `Simulēt rezultātus!`"
+
+    def update_progress(progress):
+        return progress
     
     initial_papers, initial_citations, initial_CPP, initial_H, final_papers, final_citations, simulated_CPP, simulated_H = simulate_publications_and_citations(
          publication_data=pub_df,
@@ -295,7 +305,8 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
          Q4_TO_Q2_EQUIVALENT=q4_q2,
          Q4_TO_Q1_EQUIVALENT=q4_q1,
          SELF_CITATION_FRACTION=self_cite,
-         iters=iters_input
+         iters=iters_input,
+        progress_callback=update_progress
     ) 
 
     return html.Div([
@@ -303,7 +314,7 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
          html.P(f"Paredzamais citējumu skaits: {final_citations.mean():.0f} ± {(final_citations.std()/np.sqrt(len(final_citations))):.0f}. Procentuālās izmaiņas: {100*((final_citations.mean()/initial_citations)-1):.1f}%."),
          html.P(f"Paredzamais 'Citations per Paper' rādītājs: {simulated_CPP.mean():.1f} ± {(simulated_CPP.std()/np.sqrt(len(simulated_CPP))):.1f}. Procentuālās izmaiņas: {100*((simulated_CPP.mean()/initial_CPP)-1):.1f}%."),
          html.P(f"Paredzamais 'H-index': {simulated_H.mean():.1f} ± {(simulated_H.std()/np.sqrt(len(simulated_H))):.1f}. Procentuālās izmaiņas: {100*((simulated_H.mean()/initial_H)-1):.1f}%.")
-    ])
+    ]), 100
 
 if __name__ == '__main__':
      port = int(os.environ.get('PORT', 8050))
