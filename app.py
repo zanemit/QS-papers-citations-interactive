@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import scipy
 import re
+import os
 from io import StringIO
 import requests
 import dash
@@ -305,4 +306,5 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
     ])
 
 if __name__ == '__main__':
-     app.run(debug=True)
+     port = int(os.environ.get('PORT', 8050))
+     app.run(debug=True, host='0.0.0.0', port=port)
