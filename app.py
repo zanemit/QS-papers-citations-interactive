@@ -2,17 +2,26 @@ import pandas as pd
 import numpy as np
 import scipy
 import re
+import requests
 import dash
 from dash import dcc, html, Input, Output, State
 
 np.random.seed(42)
 
 # Load data
-PUB_DATA_PATH = r"data\publication_data.csv"
-ASJC_DATA_PATH = r"data\asjc_data.csv"
+PUB_DATA_URL = "https://raw.githubusercontent.com/zanemit/QS-papers-citations-interactive/main/data/publication_data.csv"
+response_pub = requests.get(PUB_DATA_URL)
+if response_pub.status_code==200:
+    pub_df = pd.read_csv(pd.compat.StringIO(reponse_pub.text), index_col=0)
+else:
+    print("Failed to download publication data!")
 
-pub_df = pd.read_csv(PUB_DATA_PATH, index_col=0)
-asjc_df = pd.read_csv(ASJC_DATA_PATH, index_col=0)
+ASJC_DATA_URL = "https://raw.githubusercontent.com/zanemit/QS-papers-citations-interactive/main/data/asjc_data.csv"
+response_asjc = requests.get(ASJC_DATA_URL)
+if response_pub.status_code==200:
+    asjc_df = pd.read_csv(pd.compat.StringIO(reponse_asjc.text), index_col=0)
+else:
+    print("Failed to download asjc data!")
 
 # Dash app setup
 app = dash.Dash(__name__)
