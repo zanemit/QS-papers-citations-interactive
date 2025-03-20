@@ -302,7 +302,8 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
          html.P(f"Paredzamais publikāciju skaits: {final_papers.mean():.0f} ± {(final_papers.std()/np.sqrt(len(final_papers))):.0f}. Procentuālās izmaiņas: {100*((final_papers.mean()/initial_papers)-1):.1f}%."),
          html.P(f"Paredzamais citējumu skaits: {final_citations.mean():.0f} ± {(final_citations.std()/np.sqrt(len(final_citations))):.0f}. Procentuālās izmaiņas: {100*((final_citations.mean()/initial_citations)-1):.1f}%."),
          html.P(f"Paredzamais 'Citations per Paper' rādītājs: {simulated_CPP.mean():.1f} ± {(simulated_CPP.std()/np.sqrt(len(simulated_CPP))):.1f}. Procentuālās izmaiņas: {100*((simulated_CPP.mean()/initial_CPP)-1):.1f}%."),
-         html.P(f"Paredzamais 'H-index': {simulated_H.mean():.1f} ± {(simulated_H.std()/np.sqrt(len(simulated_H))):.1f}. Procentuālās izmaiņas: {100*((simulated_H.mean()/initial_H)-1):.1f}%.")
+         html.P(f"Paredzamais 'H-index': {simulated_H.mean():.1f} ± {(simulated_H.std()/np.sqrt(len(simulated_H))):.1f}. Procentuālās izmaiņas: {100*((simulated_H.mean()/initial_H)-1):.1f}%."),
+        html.P("\nATJAUNINIET LAPU, LAI SIMULĒTU VĒLREIZ!")
     ])
 
 if __name__ == '__main__':
