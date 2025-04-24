@@ -150,9 +150,6 @@ def compute_citations_per_paper(publication_data_asjc, self_citation_fraction):
     pub_df_regular = pub_df.loc[pub_df['Journal ASJC count']>1, :].reset_index()
     # print(f"There are {pub_df_niche.shape[0]} publications in niche journals and {pub_df_regular.shape[0]} publications elsewhere.")
 
-    print(f"CPP REGULAR SHAPE: {pub_df_regular.shape[0]}, NICHE SHAPE: {pub_df_niche.shape[0]}")
-
-
     CPP_raw = 0.667*pub_df_niche['Citations'].sum()/pub_df_niche.shape[0] +\
                           0.333*pub_df_regular['Citations'].sum()/pub_df_regular.shape[0]
 
@@ -167,7 +164,7 @@ def compute_H(publication_data_asjc, self_citation_fraction):
     """
     if self_citation_fraction <0 or self_citation_fraction >1:
         raise ValueError("Self-citation fraction must be a number between 0 and 1")
-    pub_df = publication_data_asjc
+    pub_df = publication_data_asjc.copy()
 
     pub_df['Journal ASJC count'] = pub_df['All Science Journal Classification Codes (ASJC)'].apply(lambda s: len(s))
     pub_df_niche = pub_df.loc[pub_df['Journal ASJC count']==1, :].reset_index()
