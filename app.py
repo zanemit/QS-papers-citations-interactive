@@ -32,9 +32,9 @@ server = app.server
 
 # initialise simulation history with the 2018-2022 values
 simulation_history = [{
-    "q4": 0,
-    "q3": 0,
-    "q2": 0,
+    "q4_slider": 0,
+    "q3_slider": 0,
+    "q2_slider": 0,
     "q4_q3": None,
     "q4_q2": None,
     "q4_q1": None,
@@ -345,7 +345,7 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
     simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
 
     # Add hover text (inputs used for each simulation run)
-    hover_text = [f"Q4 Slider: {run['q4_slider']}, Q3 Slider: {run['q3_slider']}, Q2 Slider: {run['q2_slider']}, "
+    hover_text = [f"% Q4 removed: {run['q4_slider']}, % Q3 removed: {run['q3_slider']}, % Q2 removed: {run['q2_slider']}, "
                   f"Q4-Q3: {run['q4_q3']}, Q4-Q2: {run['q4_q2']}, Q4-Q1: {run['q4_q1']}, "
                   f"Self-Cite: {run['self_cite']}, Iters: {run['iters_input']}" for run in simulation_history]
 
