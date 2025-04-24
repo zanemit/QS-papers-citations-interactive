@@ -1,793 +1,794 @@
-,journal_quartile,Citations,Source Title,ISSN
-0,Q1,689,Ultraschall in der Medizin,01724614
-1,Q1,333,BMC Public Health,14712458
-2,Q1,274,"Ultraschall in der Medizin (Stuttgart, Germany : 1980)",14388782
-3,Q1,226,EMBO Molecular Medicine,17574676
-4,Q1,217,Journal of Adolescent Health,1054139X
-5,Q1,210,Frontiers in Immunology,16643224
-6,Q1,204,Autoimmunity Reviews,15689972
-7,Q1,198,Frontiers in Microbiology,1664302X
-8,Q1,191,Journal of Headache and Pain,11292369
-9,Q1,159,Journal of Adolescent Health,1054139X
-10,Q1,148,Clinical Infectious Diseases,10584838
-11,Q1,147,"Scandinavian Journal of Work, Environment and Health",03553140
-12,Q1,147,European Journal of Pain (United Kingdom),10903801
-13,Q1,147,Human Reproduction,02681161
-14,Q1,141,Journal of Adolescent Health,1054139X
-15,Q1,133,New England Journal of Medicine,00284793
-16,Q1,127,Cells,20734409
-17,Q1,120,Diabetologia,0012186X
-18,Q1,110,Clinical Nutrition,02615614
-19,Q1,105,Cardiovascular Diabetology,14752840
-20,Q1,104,Arthritis Care and Research,2151464X
-21,Q1,100,Eye (Basingstoke),0950222X
-22,Q2,98,"Medicina (Kaunas, Lithuania)",16489144
-23,Q1,97,Journal of Headache and Pain,11292369
-24,Q1,92,Virchows Archiv,09456317
-25,Q1,79,European Heart Journal,0195668X
-26,Q1,79,Chest,00123692
-27,Q1,74,International Journal of Public Health,16618556
-28,Q1,72,European Respiratory Journal,09031936
-29,Q1,71,Survey of Ophthalmology,00396257
-30,Q1,70,Arthritis Research and Therapy,14786354
-31,Q2,69,Frontiers in Pediatrics,22962360
-32,Q1,67,Journal of Cystic Fibrosis,15691993
-33,Q1,66,Journal of Medical Virology,01466615
-34,Q2,63,Radiologia Medica,00338362
-35,Q1,63,PLoS Medicine,15491277
-36,Q2,63,Cancers,20726694
-37,Q2,63,"Clinical Lymphoma, Myeloma and Leukemia",21522650
-38,Q1,62,Virus Research,01681702
-39,Q2,61,Cancers,20726694
-40,Q3,60,BMJ Open Ophthalmology,23973269
-41,Q2,59,Medical Ultrasonography,18444172
-42,Q2,56,Biomedicines,22279059
-43,Q1,54,Cancers,20726694
-44,Q1,54,BMC Medical Informatics and Decision Making,14726947
-45,Q1,54,Microbiology Spectrum,21650497
-46,Q1,54,International Journal of Environmental Research and Public Health,16617827
-47,Q1,53,Annals of the Rheumatic Diseases,00034967
-48,Q1,52,European Psychiatry,09249338
-49,Q1,52,Pediatric Critical Care Medicine,15297535
-50,Q1,52,Modern Pathology,08933952
-51,Q2,51,Medicina (Lithuania),1010660X
-52,Q1,50,Current Alzheimer Research,15672050
-53,Q3,49,Microorganisms,20762607
-55,Q1,49,Military Medical Research,20957467
-56,Q1,49,Journal of Clinical Immunology,02719142
-57,Q1,48,Journal of Clinical Medicine,20770383
-58,Q1,47,Journal of Rheumatology,0315162X
-59,Q1,46,Acta Ophthalmologica,1755375X
-60,Q3,46,Genes,20734425
-61,Q2,43,Journal of Orthopaedic Surgery and Research,1749799X
-62,Q1,42,American Journal of Human Genetics,00029297
-63,Q2,41,Annals of General Psychiatry,1744859X
-64,Q3,41,Biochemistry (Moscow),00062979
-65,Q1,40,European Journal of Neurology,13515101
-66,Q1,40,Human Reproduction,02681161
-67,Q1,40,Ultrasound International Open,2509596X
-68,Q1,40,Europace,10995129
-69,Q1,40,Ultraschall in der Medizin,01724614
-70,Q1,39,Neurogastroenterology and Motility,13501925
-71,Q2,38,Pulmonary Circulation,20458932
-72,Q3,37,European Journal of Medical Genetics,17697212
-73,Q1,37,Arthritis Research and Therapy,14786354
-74,Q2,36,Frontiers in Pediatrics,22962360
-75,Q4,34,RoFo Fortschritte auf dem Gebiet der Rontgenstrahlen und der Bildgebenden Verfahren,14389029
-76,Q1,33,Journal of the European Academy of Dermatology and Venereology,09269959
-77,Q1,33,Multiple Sclerosis Journal,13524585
-78,Q2,32,International Journal of Environmental Research and Public Health,16617827
-79,Q1,32,Histopathology,03090167
-80,Q1,32,International Journal of Gynecological Cancer,1048891X
-82,Q1,32,Journal of Epidemiology and Community Health,0143005X
-83,Q1,32,Cancer Cytopathology,1934662X
-84,Q1,31,European Journal of Endocrinology,08044643
-85,Q4,31,Experimental Oncology,18129269
-86,Q1,31,Health Policy,01688510
-87,Q1,31,Journal of Cataract and Refractive Surgery,08863350
-88,Q2,30,Aging Male,13685538
-89,Q1,30,Insights into Imaging,18694101
-90,Q2,30,Medicina (Lithuania),1010660X
-91,Q1,30,Journal of Lower Genital Tract Disease,10892591
-92,Q1,29,Journal of Reproductive Immunology,01650378
-93,Q1,29,Current Medicinal Chemistry,09298673
-94,Q1,28,Frontiers in Microbiology,1664302X
-95,Q1,28,Clinical Infectious Diseases,10584838
-96,Q1,28,Cartilage,19476035
-97,Q1,27,Medicine and Science in Sports and Exercise,01959131
-98,Q2,27,Nordic Journal of Psychiatry,08039488
-99,Q2,26,Frontiers in Endocrinology,16642392
-100,Q2,26,BMJ Paediatrics Open,23999772
-101,Q3,26,BMC Gastroenterology,1471230X
-102,Q2,26,Medicina (Lithuania),1010660X
-103,Q2,26,Pathology Research and Practice,03440338
-104,Q2,26,Endocrine Journal,09188959
-105,Q1,26,European Child and Adolescent Psychiatry,10188827
-106,Q1,25,Vaccine,0264410X
-107,Q1,25,European Journal of Anaesthesiology,02650215
-108,Q1,25,Health Policy,01688510
-109,Q2,25,Human Vaccines and Immunotherapeutics,21645515
-110,Q2,25,Gynecological Endocrinology,09513590
-111,Q1,25,BMC Public Health,14712458
-112,Q2,25,Medicina (Lithuania),1010660X
-113,Q1,25,Epidemiology and Psychiatric Sciences,20457960
-114,Q2,24,Journal of Ophthalmology,2090004X
-115,Q2,24,Medical Ultrasonography,18444172
-116,Q2,24,Nordic Journal of Psychiatry,08039488
-117,Q1,24,Europace,10995129
-118,Q1,24,Biogerontology,13895729
-119,Q1,24,Acta Ophthalmologica,1755375X
-120,Q1,24,Molecules,14203049
-121,Q2,24,Journal of Ophthalmology,2090004X
-122,Q1,24,Pharmacopsychiatry,01763679
-123,Q1,24,Neuromodulation,10947159
-124,Q3,24,European Neurology,00143022
-125,Q1,23,Clinical and Experimental Immunology,00099104
-126,Q3,23,BMJ Paediatrics Open,23999772
-128,Q1,23,Psychology Research and Behavior Management,11791578
-129,Q2,22,Frontiers in Medicine,2296858X
-130,Q1,22,Cardiovascular Drugs and Therapy,09203206
-131,Q2,22,Acta Radiologica,02841851
-132,Q1,22,Annals of the Rheumatic Diseases,00034967
-133,Q1,22,Journal of Clinical Medicine,20770383
-134,Q2,22,Medicina (Lithuania),1010660X
-135,Q2,22,Medicina (Lithuania),1010660X
-136,Q2,21,International Clinical Psychopharmacology,02681315
-137,Q1,21,Frontiers in Immunology,16643224
-138,Q2,21,Infectious Agents and Cancer,17509378
-139,Q1,21,Pediatric Critical Care Medicine,15297535
-140,Q1,21,Survey of Ophthalmology,00396257
-141,Q2,21,Acta Anaesthesiologica Scandinavica,00015172
-142,Q1,21,Journal of Molecular Diagnostics,15251578
-143,Q4,20,The Lancet Regional Health - Southeast Asia,27723682
-144,Q1,20,International Breastfeeding Journal,17464358
-145,Q2,20,Medicina (Lithuania),1010660X
-146,Q3,20,Polish Journal of Pathology,12339687
-147,Q2,20,BMC Cancer,14712407
-148,Q2,20,Medicina (Lithuania),1010660X
-149,Q2,20,Pediatric Surgery International,01790358
-150,Q2,20,Medicina (Lithuania),1010660X
-151,Q1,20,Health Policy,01688510
-152,Q2,20,Viruses,19994915
-153,Q1,20,BMJ Open,20446055
-154,Q1,20,Clinical Infectious Diseases,10584838
-155,Q1,20,Virchows Archiv,09456317
-156,Q2,19,BMC Anesthesiology,14712253
-157,Q2,19,Journal of Ultrasound in Medicine,02784297
-158,Q1,19,Cornea,02773740
-159,Q2,19,Frontiers in Psychiatry,16640640
-160,Q1,19,Expert Review of Vaccines,14760584
-161,Q1,18,Journal of Affective Disorders,01650327
-162,Q2,18,Heart Lung and Circulation,14439506
-163,Q1,18,Antibiotics,20796382
-164,Q1,18,Journal of Primary Care and Community Health,21501319
-165,Q2,18,European Journal of Obstetrics and Gynecology and Reproductive Biology,03012115
-166,Q1,18,Shock,10732322
-167,Q1,18,International Journal of Environmental Research and Public Health,16617827
-168,Q1,18,European Journal of Anaesthesiology,02650215
-169,Q1,17,Orthodontics and Craniofacial Research,16016335
-170,Q3,17,Current Neurovascular Research,15672026
-171,Q2,17,Journal of Applied Physiology,87507587
-172,Q3,17,Biochemistry (Moscow),00062979
-173,Q3,17,BMC Medical Genomics,17558794
-174,Q2,17,Vaccines,2076393X
-175,Q1,17,Journal of Neurotrauma,08977151
-176,Q2,17,Geriatrics (Switzerland),23083417
-177,Q2,17,Frontiers in Medicine,2296858X
-178,Q2,17,Medicina (Lithuania),1010660X
-180,Q1,17,International Journal of Environmental Research and Public Health,16617827
-181,Q2,16,Frontiers in Pediatrics,22962360
-182,Q1,16,International Journal of Environmental Research and Public Health,16617827
-183,Q1,16,Health Policy,01688510
-184,Q1,16,Journal of the European Academy of Dermatology and Venereology,09269959
-185,Q2,16,Journal of Human Genetics,14345161
-186,Q1,16,Annals of General Psychiatry,1744859X
-187,Q1,16,Reproduction,14701626
-188,Q1,16,Journal of Diabetes Investigation,20401116
-189,Q2,16,Annals of Diagnostic Pathology,10929134
-190,Q1,16,Health systems in transition,18176127
-191,Q1,16,BMC Public Health,14712458
-192,Q1,15,European Journal of Vascular and Endovascular Surgery,10785884
-193,Q2,15,Medicina (Lithuania),1010660X
-194,Q1,15,The Lancet Regional Health - Europe,26667762
-195,Q1,15,Diabetic Medicine,07423071
-196,Q1,15,Neurobiology of Disease,09699961
-197,Q1,15,European Journal of Neurology,13515101
-198,Q1,15,Medical Principles and Practice,10117571
-199,Q2,14,Journal of medical case reports,17521947
-200,Q3,14,Hereditary Cancer in Clinical Practice,17312302
-201,Q2,14,BMC Pediatrics,14712431
-202,Q2,14,Biomedicines,22279059
-203,Q2,14,Scandinavian Journal of Primary Health Care,02813432
-204,Q1,14,International Journal of Environmental Research and Public Health,16617827
-205,Q2,14,Journal of Ophthalmology,2090004X
-206,Q4,14,Microorganisms,20762607
-207,Q2,14,Medicina (Lithuania),1010660X
-208,Q2,14,Frontiers in Psychiatry,16640640
-209,Q2,14,Medicina (Lithuania),1010660X
-210,Q2,14,Frontiers in Endocrinology,16642392
-212,Q2,14,Evidence-Based Mental Health,13620347
-213,Q1,14,Viruses,19994915
-214,Q1,14,Frontiers in Microbiology,1664302X
-215,Q1,14,World Journal of Emergency Surgery,17497922
-216,Q2,14,Medicina (Lithuania),1010660X
-217,Q2,14,Journal of Cellular and Molecular Medicine,15821838
-218,Q2,14,Cleft Palate-Craniofacial Journal,10556656
-219,Q1,14,Gastric Cancer,14363291
-220,Q2,13,Vaccines,2076393X
-221,Q1,13,International Journal of Neonatal Screening,2409515X
-222,Q2,13,Journal of Current Ophthalmology,24522325
-223,Q1,13,Ultraschall in der Medizin,01724614
-224,Q1,13,Europace,10995129
-225,Q1,13,Health Policy,01688510
-226,Q2,13,Medicina (Lithuania),1010660X
-227,Q1,13,Journal of Vascular Surgery,07415214
-228,Q3,13,Genes,20734425
-229,Q2,13,Cancers,20726694
-230,Q1,13,Archives of Disease in Childhood,00039888
-231,Q1,13,Behavioural Brain Research,01664328
-232,Q2,13,Journal of NeuroVirology,13550284
-233,Q4,13,Experimental Oncology,18129269
-234,Q2,13,Medicina (Lithuania),1010660X
-235,Q1,13,Viruses,19994915
-236,Q2,13,Pediatric Infectious Disease Journal,08913668
-237,Q3,13,International Journal of Pediatrics and Adolescent Medicine,23526467
-238,Q1,12,Health and Quality of Life Outcomes,14777525
-239,Q1,12,Molecular Neurobiology,08937648
-240,Q1,12,Ethnicity and Health,13557858
-241,Q1,12,"Infection, Genetics and Evolution",15671348
-242,Q1,12,Cardiovascular Diabetology,14752840
-243,Q4,12,OBM Neurobiology,25734407
-244,Q1,12,Journal of Vascular Surgery,07415214
-245,Q1,12,International Journal of Environmental Research and Public Health,16617827
-246,Q2,12,Frontiers in Psychiatry,16640640
-247,Q2,12,International Journal of Environmental Research and Public Health,16617827
-248,Q2,12,Journal of Intelligence,20793200
-249,Q2,12,Vector-Borne and Zoonotic Diseases,15303667
-250,Q1,12,Frontiers in Medicine,2296858X
-251,Q2,12,Frontiers in Psychiatry,16640640
-252,Q2,12,Scandinavian Journal of Gastroenterology,00365521
-253,Q1,12,Acta Ophthalmologica,1755375X
-254,Q1,12,Drug and Alcohol Dependence,03768716
-255,Q4,12,OBM Neurobiology,25734407
-256,Q1,12,Biochimica et Biophysica Acta - Reviews on Cancer,0304419X
-257,Q1,12,Journal of Refractive Surgery,1081597X
-258,Q2,12,Medicine (United States),00257974
-259,Q2,12,Cardiovascular Diagnosis and Therapy,22233652
-260,Q2,12,Journal of Inflammation Research,11787031
-261,Q2,12,Nordic Journal of Psychiatry,08039488
-262,Q2,11,Frontiers in Oncology,2234943X
-263,Q3,11,Frontiers in Genetics,16648021
-264,Q1,11,Frontiers in Microbiology,1664302X
-265,Q3,11,Hormones,11093099
-266,Q1,11,Archives of Gerontology and Geriatrics,01674943
-267,Q1,11,Frontiers in Aging Neuroscience,16634365
-268,Q2,11,Frontiers in Public Health,22962565
-269,Q2,11,International Urogynecology Journal,09373462
-270,Q2,11,Medical Ultrasonography,18444172
-271,Q1,11,Biochimica et Biophysica Acta - Molecular Basis of Disease,09254439
-272,Q1,11,Journal of the European Academy of Dermatology and Venereology,09269959
-273,Q1,11,Molecular Psychiatry,13594184
-274,Q2,11,Gynecological Endocrinology,09513590
-275,Q2,11,BMC Health Services Research,14726963
-276,Q2,11,European Journal of Gastroenterology and Hepatology,0954691X
-277,Q2,11,Medicina (Lithuania),1010660X
-278,Q1,11,Frontiers in Microbiology,1664302X
-279,Q2,11,Medicina (Lithuania),1010660X
-280,Q2,11,Medicina (Lithuania),1010660X
-281,Q2,11,Leukemia Research,01452126
-282,Q2,11,Microsurgery,07381085
-283,Q1,11,Pediatric Nephrology,0931041X
-284,Q2,10,Medicina (Lithuania),1010660X
-285,Q2,10,BMJ Simulation and Technology Enhanced Learning,20566697
-286,Q2,10,Urologia Internationalis,00421138
-287,Q3,10,Genes,20734425
-288,Q4,10,Experimental Oncology,18129269
-289,Q2,10,Medicina (Lithuania),1010660X
-290,Q2,10,Health Science Reports,23988835
-291,Q1,10,Primary Care Diabetes,17519918
-292,Q3,10,"Immunity, Inflammation and Disease",20504527
-293,Q1,10,Cancers,20726694
-294,Q2,10,Medicina (Lithuania),1010660X
-295,Q2,10,Biotechnic and Histochemistry,10520295
-296,Q2,10,Annals of Diagnostic Pathology,10929134
-297,Q2,10,International Clinical Psychopharmacology,02681315
-298,Q2,10,Healthcare (Switzerland),22279032
-299,Q2,10,International Journal of Environmental Research and Public Health,16617827
-300,Q2,10,Medicina (Lithuania),1010660X
-301,Q2,10,Medicina (Lithuania),1010660X
-302,Q2,10,BMC Pediatrics,14712431
-303,Q2,10,Medicina (Lithuania),1010660X
-304,Q1,10,Medicine (United States),00257974
-305,Q2,10,Medicina (Lithuania),1010660X
-306,Q2,10,Medicina (Lithuania),1010660X
-307,Q2,10,Cancers,20726694
-308,Q2,9,Journal of Immunology Research,23148861
-309,Q3,9,Journal of Healthcare Engineering,20402295
-310,Q3,9,Clinical Nutrition ESPEN,24054577
-311,Q3,9,European Journal of Medical Genetics,17697212
-312,Q1,9,Health and Quality of Life Outcomes,14777525
-313,Q2,9,Healthcare (Switzerland),22279032
-314,Q3,9,General Dentistry,03636771
-315,Q2,9,Genes,20734425
-316,Q1,9,Contraception,00107824
-317,Q2,9,Medicina (Lithuania),1010660X
-318,Q1,9,Journal of Clinical Medicine,20770383
-319,Q2,9,International Ophthalmology,01655701
-320,Q1,9,Infectious Diseases in Obstetrics and Gynecology,10647449
-321,Q2,9,Urology,00904295
-322,Q2,9,Cancers,20726694
-323,Q2,9,Electronic Journal of General Medicine,25163507
-324,Q1,9,Molecules,14203049
-325,Q1,9,Gastroenterology,00165085
-326,Q2,9,Medicina (Lithuania),1010660X
-327,Q3,9,Infectious Disease Reports,20367449
-328,Q2,9,Journal of Cancer Research and Clinical Oncology,01715216
-329,Q1,9,Journal of the European Academy of Dermatology and Venereology,09269959
-330,Q2,8,Vaccines,2076393X
-331,Q1,8,Respiratory Research,14659921
-332,Q2,8,Open Heart,2398595X
-333,Q2,8,Simulation in Healthcare,15592332
-334,Q3,8,Children,22279067
-335,Q2,8,Antibiotics,20796382
-336,Q3,8,Children,22279067
-337,Q1,8,Viruses,19994915
-338,Q1,8,BMJ Open,20446055
-339,Q1,8,Journal of Clinical Medicine,20770383
-340,Q3,8,Avant,20826710
-341,Q1,8,International Journal of Environmental Research and Public Health,16617827
-342,Q2,8,Medicina (Lithuania),1010660X
-343,Q2,8,Journal of Pharmaceutical Policy and Practice,20523211
-344,Q2,8,Rural and Remote Health,14456354
-345,Q1,8,Updates in Surgery,2038131X
-346,Q2,8,Vector-Borne and Zoonotic Diseases,15303667
-347,Q3,8,Monash bioethics review,18366716
-348,Q2,8,Medicina (Lithuania),1010660X
-349,Q4,8,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
-350,Q2,8,International Journal of Dermatology,00119059
-351,Q1,8,Pediatric Infectious Disease Journal,08913668
-352,Q1,8,Journal of Clinical Medicine,20770383
-353,Q2,8,Brain and Behavior,21623279
-354,Q1,8,Frontiers in Medicine,2296858X
-355,Q2,7,Journal of Hand Surgery: European Volume,17531934
-356,Q2,7,Frontiers in Endocrinology,16642392
-357,Q2,7,Frontiers in Neurology,16642295
-358,Q2,7,Immunology Letters,01652478
-359,Q2,7,Biomedicines,22279059
-360,Q3,7,Polish Journal of Veterinary Sciences,15051773
-362,Q2,7,Frontiers in Neurology,16642295
-363,Q2,7,IISE Transactions on Occupational Ergonomics and Human Factors,24725838
-364,Q2,7,Medicina (Lithuania),1010660X
-365,Q3,7,Techniques in Hand and Upper Extremity Surgery,10893393
-366,Q1,7,LGBT Health,23258292
-367,Q2,7,Medicina (Lithuania),1010660X
-368,Q2,7,Brain and Behavior,21623279
-369,Q2,7,Medicina (Lithuania),1010660X
-370,Q1,7,Wiener Klinische Wochenschrift,00435325
-371,Q1,7,Journal of Clinical Virology,13866532
-372,Q4,7,Studies in Health Technology and Informatics,09269630
-373,Q2,7,Journal of Back and Musculoskeletal Rehabilitation,10538127
-374,Q2,7,"Medicina (Kaunas, Lithuania)",16489144
-375,Q2,7,BMC Pediatrics,14712431
-376,Q4,7,Clinical and Experimental Obstetrics and Gynecology,03906663
-377,Q2,7,Experimental and Clinical Endocrinology and Diabetes,09477349
-378,Q3,7,Global Pediatric Health,2333794X
-379,Q2,7,BMJ Simulation and Technology Enhanced Learning,20566697
-380,Q2,7,Medicina (Lithuania),1010660X
-381,Q2,7,International Angiology,03929590
-382,Q1,7,International Review of Psychiatry,09540261
-383,Q2,7,Medicina (Lithuania),1010660X
-384,Q2,7,Growth Hormone and IGF Research,10966374
-385,Q3,7,Brain Sciences,20763425
-386,Q3,7,Journal of Cardiothoracic Surgery,17498090
-387,Q1,7,Frontiers in Microbiology,1664302X
-388,Q3,7,Hereditary Cancer in Clinical Practice,17312302
-389,Q2,7,Biomedical Reports,20499434
-390,Q1,7,Arthritis Care and Research,2151464X
-391,Q1,7,Viruses,19994915
-392,Q1,7,BMJ Open Sport and Exercise Medicine,20557647
-393,Q1,7,RMD Open,20565933
-394,Q1,7,European Journal of Pediatrics,03406199
-395,Q3,7,Expert Review of Ophthalmology,17469899
-396,Q1,7,Acta Oncologica,0284186X
-397,Q1,7,Disability and Rehabilitation,09638288
-398,Q3,7,Brain Sciences,20763425
-399,Q1,7,Health Research Policy and Systems,14784505
-400,Q3,7,European Journal of Plastic Surgery,0930343X
-401,Q1,7,Asia-Pacific Journal of Ophthalmology,21620989
-402,Q1,7,International Journal of Gynecology and Obstetrics,00207292
-403,Q1,6,Health Policy,01688510
-404,Q2,6,Annals of Transplantation,14259524
-405,Q1,6,Journal of Cataract and Refractive Surgery,08863350
-406,Q2,6,Epilepsy and Behavior,15255050
-407,Q2,6,Medicina (Lithuania),1010660X
-408,Q2,6,Medicina (Lithuania),1010660X
-409,Q4,6,Cor et Vasa,00108650
-410,Q2,6,Urology,00904295
-411,Q2,6,BMC Cancer,14712407
-412,Q2,6,Biomedicines,22279059
-413,Q3,6,Children,22279067
-414,Q2,6,European Journal of Ophthalmology,11206721
-415,Q3,6,Neurology International,20358385
-416,Q2,6,Stomatologija,13928589
-417,Q1,6,International Journal of Gynecology and Obstetrics,00207292
-418,Q2,6,Medicina (Lithuania),1010660X
-419,Q2,6,International Journal of Environmental Research and Public Health,16617827
-420,Q2,6,Medicina (Lithuania),1010660X
-421,Q1,6,Genes and Diseases,23524820
-422,Q2,6,Medicina (Lithuania),1010660X
-423,Q2,6,Frontiers in Genetics,16648021
-424,Q3,6,Strategies in Trauma and Limb Reconstruction,18288936
-425,Q1,6,Journal of Assisted Reproduction and Genetics,10580468
-426,Q2,6,Medicina (Lithuania),1010660X
-427,Q1,6,International Journal of Gynecology and Obstetrics,00207292
-428,Q1,6,BMJ Open,20446055
-429,Q2,6,Nordic Journal of Psychiatry,08039488
-430,Q2,6,Biomedicines,22279059
-431,Q2,6,Journal of Medical Biochemistry,14528258
-432,Q1,6,Europace,10995129
-433,Q2,6,Medicina (Lithuania),1010660X
-434,Q2,6,Viruses,19994915
-435,Q1,6,International Journal of Environmental Research and Public Health,16617827
-436,Q2,6,Medicina (Lithuania),1010660X
-437,Q2,6,Frontiers in Neurology,16642295
-438,Q2,6,International Journal of Environmental Research and Public Health,16617827
-439,Q2,6,Journal of Nutrition and Metabolism,20900724
-441,Q1,6,Eurosurveillance,1025496X
-442,Q2,6,Journal of Ophthalmology,2090004X
-443,Q1,6,International Journal of Environmental Research and Public Health,16617827
-444,Q3,6,Microorganisms,20762607
-445,Q1,5,BMJ Open,20446055
-446,Q2,5,Medicina (Lithuania),1010660X
-447,Q1,5,Viruses,19994915
-448,Q2,5,Trials,17456215
-449,Q1,5,Journal of Clinical Medicine,20770383
-451,Q1,5,Bulletin of the World Health Organization,00429686
-452,Q2,5,Annals of Diagnostic Pathology,10929134
-453,Q3,5,Brain and Behavior,21623279
-454,Q2,5,BMC Pediatrics,14712431
-455,Q2,5,Medicina (Lithuania),1010660X
-456,Q2,5,Neurology: Genetics,23767839
-457,Q1,5,The Lancet Regional Health - Europe,26667762
-458,Q1,5,International Journal of Environmental Research and Public Health,16617827
-459,Q1,5,Upsala Journal of Medical Sciences,03009734
-460,Q2,5,Frontiers in Endocrinology,16642392
-461,Q2,5,Journal of Musculoskeletal Neuronal Interactions,11087161
-462,Q2,5,Frontiers in Public Health,22962565
-463,Q2,5,Medicina (Lithuania),1010660X
-464,Q3,5,"American Journal of Medical Genetics, Part A",15524825
-465,Q2,5,Journal of Human Hypertension,09509240
-466,Q2,5,Medicina (Lithuania),1010660X
-467,Q4,5,Voprosy Prakticheskoi Pediatrii,18177646
-468,Q4,5,The journal of hand surgery Asian-Pacific volume,24248363
-469,Q2,5,Medicina (Lithuania),1010660X
-470,Q2,5,Frontiers in Oncology,2234943X
-471,Q1,5,Disability and Rehabilitation,09638288
-472,Q2,5,Asian Pacific Journal of Cancer Prevention,15137368
-473,Q2,5,Annals of Diagnostic Pathology,10929134
-474,Q4,5,Journal of Ultrasonography,20848404
-475,Q2,5,European Journal of Contraception and Reproductive Health Care,13625187
-476,Q1,5,European Journal of General Practice,13814788
-477,Q2,5,Medicina (Lithuania),1010660X
-478,Q1,5,Vaccines,2076393X
-480,Q1,5,Human Mutation,10597794
-481,Q1,5,Antibiotics,20796382
-482,Q3,5,Techniques in Hand and Upper Extremity Surgery,10893393
-483,Q1,5,United European gastroenterology journal,20506414
-484,Q1,5,International Journal of Public Health,16618556
-485,Q1,5,Archives of Disease in Childhood,00039888
-486,Q2,4,Biomedicines,22279059
-487,Q2,4,Permanente Journal,15525767
-488,Q2,4,IEEE International Conference on Rehabilitation Robotics,19457898
-489,Q3,4,European Journal of Health Law,09290273
-490,Q2,4,Medicina (Lithuania),1010660X
-491,Q2,4,Biomedicines,22279059
-492,Q4,4,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-493,Q2,4,Human Vaccines and Immunotherapeutics,21645515
-494,Q2,4,Acta Naturae,20758251
-495,Q2,4,Medicina (Lithuania),1010660X
-496,Q1,4,Journal of Antimicrobial Chemotherapy,03057453
-497,Q2,4,Systems Biology in Reproductive Medicine,19396368
-498,Q4,4,Activitas Nervosa Superior Rediviva,1337933X
-499,Q2,4,Healthcare (Switzerland),22279032
-500,Q2,4,Cancers,20726694
-501,Q2,4,Medicina (Lithuania),1010660X
-502,Q2,4,BMC Musculoskeletal Disorders,14712474
-503,Q1,4,Cornea,02773740
-504,Q3,4,International Journal of Surgical Pathology,10668969
-505,Q2,4,Medicina (Lithuania),1010660X
-506,Q2,4,Journal of Diabetes and its Complications,10568727
-507,Q3,4,Stomatologija,1822301X
-508,Q1,4,Journal of Cataract and Refractive Surgery,08863350
-509,Q3,4,Romanian Journal of Morphology and Embryology,12200522
-510,Q3,4,Advances in Respiratory Medicine,24514934
-511,Q2,4,Frontiers in Psychiatry,16640640
-512,Q3,4,Current Rheumatology Reviews,15733971
-513,Q2,4,AIDS,02699370
-514,Q1,4,European Journal of Pediatrics,03406199
-515,Q2,4,Medicina (Lithuania),1010660X
-516,Q3,4,American Journal of Case Reports,19415923
-517,Q2,4,Microbiology Spectrum,21650497
-518,Q2,4,Medicina (Lithuania),1010660X
-519,Q2,4,Healthcare (Switzerland),22279032
-520,Q1,4,Journal of Cranio-Maxillofacial Surgery,10105182
-521,Q2,4,BMC Pediatrics,14712431
-522,Q3,4,International Journal of Pharmaceutical Compounding,10924221
-523,Q2,4,Biomedicines,22279059
-524,Q1,4,European Journal of Pediatric Surgery,09397248
-525,Q2,4,Frontiers in Endocrinology,16642392
-526,Q1,4,International Journal of Environmental Research and Public Health,16617827
-527,Q2,4,Health Psychology and Behavioral Medicine,21642850
-528,Q3,4,Brain Sciences,20763425
-529,Q1,4,Cosmetics,20799284
-530,Q3,4,Experimental Oncology,18129269
-531,Q1,4,Nordic Journal of Music Therapy,08098131
-532,Q1,4,Journal of Clinical Medicine,20770383
-533,Q1,4,European Archives of Psychiatry and Clinical Neuroscience,09401334
-534,Q2,4,Medicina (Lithuania),1010660X
-535,Q3,4,Brain Sciences,20763425
-536,Q2,4,Medicina (Lithuania),1010660X
-537,Q2,4,Medicina (Lithuania),1010660X
-538,Q2,4,Nordic Journal of Psychiatry,08039488
-539,Q2,4,Breathe,18106838
-540,Q2,4,Medicina (Lithuania),1010660X
-541,Q1,4,Patient Education and Counseling,07383991
-542,Q2,4,Medicine and Pharmacy Reports,26020807
-543,Q3,4,American Journal of Case Reports,19415923
-544,Q1,4,"Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology",22124403
-545,Q2,4,Medicina (Lithuania),1010660X
-546,Q2,4,Medicina (Lithuania),1010660X
-547,Q1,4,Annals of Surgical Oncology,10689265
-548,Q3,4,Hereditary Cancer in Clinical Practice,17312302
-549,Q2,4,Tuberculosis,14729792
-550,Q1,4,Cosmetics,20799284
-551,Q2,4,Pediatric Hematology and Oncology,08880018
-552,Q2,4,Genes,20734425
-553,Q1,4,International Journal of Women's Health,11791411
-554,Q1,4,International Journal of Environmental Research and Public Health,16617827
-555,Q4,3,HIV and AIDS Review,17301270
-556,Q1,3,Journal of Clinical Medicine,20770383
-557,Q3,3,American Journal of Case Reports,19415923
-558,Q2,3,Medicina (Lithuania),1010660X
-559,Q2,3,Medicina (Lithuania),1010660X
-560,Q1,3,Journal of Histochemistry and Cytochemistry,00221554
-561,Q2,3,BMC Infectious Diseases,14712334
-562,Q2,3,Physical Activity Review,23005076
-563,Q2,3,Pathogens,20760817
-565,Q3,3,Case Reports in Ophthalmology,16632699
-566,Q2,3,American Journal of Case Reports,19415923
-567,Q2,3,Medicina (Lithuania),1010660X
-568,Q2,3,Medicina (Lithuania),1010660X
-569,Q2,3,Biomedicines,22279059
-570,Q3,3,Neurology Psychiatry and Brain Research,09419500
-571,Q2,3,International Journal of Environmental Research and Public Health,16617827
-572,Q4,3,Cor et Vasa,00108650
-573,Q3,3,Polish Journal of Pathology,12339687
-574,Q4,3,"Molecular Genetics, Microbiology and Virology",08914168
-575,Q1,3,"Medicine, Health Care and Philosophy",13867423
-576,Q2,3,Medicina (Lithuania),1010660X
-577,Q1,3,BMC Cancer,14712407
-578,Q3,3,Journal of Surgical Case Reports,20428812
-579,Q3,3,Clinical Medicine Insights: Arthritis and Musculoskeletal Disorders,11795441
-580,Q1,3,Psychology Research and Behavior Management,11791578
-581,Q3,3,Journal of Obstetrics and Gynaecology Research,13418076
-582,Q2,3,Medicina (Lithuania),1010660X
-583,Q4,3,Cor et Vasa,00108650
-584,Q2,3,Medicina (Lithuania),1010660X
-587,Q3,3,Stomatologija,1822301X
-588,Q3,3,Techniques in Hand and Upper Extremity Surgery,10893393
-589,Q2,3,Medicina (Lithuania),1010660X
-590,Q1,3,International Journal of Health Policy and Management,23225939
-591,Q2,3,Medicina (Lithuania),1010660X
-592,Q1,3,Therapeutic Advances in Respiratory Disease,17534658
-593,Q2,3,European Journal of Ophthalmology,11206721
-594,Q2,3,Medicina (Lithuania),1010660X
-595,Q3,3,Open Dermatology Journal,18743722
-596,Q2,3,Medicina (Lithuania),1010660X
-597,Q2,3,Medicina (Lithuania),1010660X
-598,Q2,3,European Journal of Ophthalmology,11206721
-600,Q2,3,Medicina (Lithuania),1010660X
-602,Q2,3,Folia Morphologica (Poland),00155659
-603,Q1,3,Journal of Clinical Medicine,20770383
-604,Q3,3,Pediatric Neurosurgery,10162291
-605,Q1,3,International Journal of Women's Health,11791411
-606,Q2,3,Hepatitis Monthly,1735143X
-607,Q2,3,Medicina (Lithuania),1010660X
-608,Q4,3,Balkan Journal of Medical Genetics,13110160
-609,Q3,3,Journal of Medical Biochemistry,14528258
-610,Q1,3,Journal of Clinical Medicine,20770383
-611,Q3,3,Clinical Case Reports,20500904
-612,Q3,3,American Journal of Case Reports,19415923
-613,Q2,3,Psychiatria Danubina,03535053
-614,Q2,3,International Journal of Environmental Research and Public Health,16617827
-616,Q1,3,Cell and Tissue Research,0302766X
-617,Q1,3,Europace,10995129
-618,Q4,3,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-619,Q4,2,SAGE Open Medical Case Reports,2050313X
-620,Q3,2,Children,22279067
-621,Q2,2,Medicina (Lithuania),1010660X
-622,Q2,2,Frontiers in Medicine,2296858X
-623,Q2,2,Medicina (Lithuania),1010660X
-624,Q2,2,Nordic Journal of Psychiatry,08039488
-625,Q2,2,Genes,20734425
-626,Q4,2,OBM Neurobiology,25734407
-627,Q3,2,Vaccines,2076393X
-628,Q1,2,Current Eye Research,02713683
-629,Q3,2,Archivos de la Sociedad Espanola de Oftalmologia,03656691
-630,Q3,2,Experimental Oncology,18129269
-631,Q4,2,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-632,Q1,2,Cosmetics,20799284
-634,Q3,2,Hereditary Cancer in Clinical Practice,17312302
-635,Q1,2,Gait and Posture,09666362
-636,Q4,2,European Heart Journal - Case Reports,25142119
-637,Q3,2,Stomatologija,13928589
-638,Q2,2,Frontiers in Pediatrics,22962360
-639,Q3,2,Central European Journal of Urology,20804806
-640,Q2,2,Anesthesiology and Pain Medicine,22287523
-641,Q2,2,Nordic Journal of Psychiatry,08039488
-642,Q3,2,Cleft Palate-Craniofacial Journal,10556656
-644,Q1,2,European Journal of Neurology,13515101
-645,Q2,2,Medicina (Lithuania),1010660X
-646,Q3,2,Experimental Oncology,18129269
-647,Q1,2,International Journal of Environmental Research and Public Health,16617827
-648,Q3,2,American Journal of Case Reports,19415923
-649,Q1,2,Journal of Clinical Medicine,20770383
-650,Q2,2,Ethics and Bioethics (in Central Europe),13385615
-651,Q2,2,Neurology: Genetics,23767839
-652,Q3,2,Brain Sciences,20763425
-653,Q2,2,Medicina (Lithuania),1010660X
-654,Q2,2,The American journal of case reports,19415923
-655,Q2,2,"Clinical, Cosmetic and Investigational Dermatology",11787015
-656,Q3,2,Pharmacogenomics and Personalized Medicine,11787066
-657,Q3,2,Case Reports in Ophthalmology,16632699
-658,Q4,2,Activitas Nervosa Superior Rediviva,1337933X
-659,Q2,2,Medicina (Lithuania),1010660X
-660,Q2,2,European Journal of Contraception and Reproductive Health Care,13625187
-662,Q3,2,Hereditary Cancer in Clinical Practice,17312302
-663,Q2,2,Neurologia i Neurochirurgia Polska,00283843
-664,Q3,2,BMC Endocrine Disorders,14726823
-665,Q1,2,United European gastroenterology journal,20506414
-666,Q1,2,Journal of Hypertension,02636352
-667,Q3,2,Microorganisms,20762607
-668,Q2,2,Medicina (Lithuania),1010660X
-669,Q2,2,Medicina (Lithuania),1010660X
-670,Q2,2,Frontiers in Oncology,2234943X
-671,Q1,2,PeerJ,21678359
-672,Q4,2,Acta Chirurgiae Orthopaedicae et Traumatologiae Cechoslovaca,00015415
-673,Q3,2,Central European Journal of Urology,20804806
-674,Q3,2,Baylor University Medical Center Proceedings,08998280
-675,Q3,2,Anais Brasileiros de Dermatologia,03650596
-676,Q2,2,Primary Care Diabetes,17519918
-677,Q4,2,Case Reports in Oncology,16626575
-678,Q2,2,Histology and Histopathology,02133911
-679,Q1,2,BMC Public Health,14712458
-682,Q3,2,Wspolczesna Onkologia,14282526
-683,Q1,2,United European Gastroenterology Journal,20506406
-684,Q2,2,"Allergy, Asthma and Clinical Immunology",17101484
-685,Q1,2,International Journal of Environmental Research and Public Health,16617827
-686,Q3,2,Hereditary Cancer in Clinical Practice,17312302
-687,Q2,2,Gynecological Endocrinology,09513590
-688,Q4,1,Acta Medica Lituanica,13920138
-689,Q4,1,Cor et Vasa,00108650
-690,Q3,1,International Journal of Reproductive BioMedicine,24764108
-691,Q3,1,Current Rheumatology Reviews,15733971
-692,Q2,1,Dental press journal of orthodontics,21776709
-693,Q1,1,Vaccine: X,25901362
-694,Q2,1,Frontiers in Pediatrics,22962360
-695,Q3,1,Children,22279067
-696,Q3,1,Brain Sciences,20763425
-698,Q2,1,Medicina (Lithuania),1010660X
-699,Q2,1,Stomatologija,13928589
-700,Q4,1,Italian Journal of Anatomy and Embryology,11226714
-701,Q2,1,Journal of Personalized Medicine,20754426
-702,Q3,1,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
-703,Q2,1,Primary Health Care Research and Development,14634236
-704,Q1,1,Journal of Rehabilitation Medicine,16501977
-705,Q4,1,Radiology Case Reports,19300433
-706,Q1,1,Journal of Adolescent Health,1054139X
-707,Q2,1,Frontiers in Medicine,2296858X
-708,Q3,1,Case Reports in Medicine,16879627
-709,Q3,1,JMIR Formative Research,2561326X
-710,Q3,1,International Journal of Pharmaceutical Compounding,10924221
-711,Q2,1,Israel Medical Association Journal,15651088
-712,Q2,1,Frontiers in Psychiatry,16640640
-713,Q3,1,American Journal of Case Reports,19415923
-714,Q1,1,European Journal of Physical and Rehabilitation Medicine,19739087
-715,Q3,1,Case Reports in Dermatology,16626567
-716,Q3,1,Journal of Interventional Cardiology,08964327
-717,Q3,1,American Journal of Case Reports,19415923
-718,Q3,1,Stomatologija,13928589
-719,Q2,1,Medicina (Lithuania),1010660X
-720,Q3,1,American Journal of Case Reports,19415923
-721,Q1,1,Journal of Clinical Medicine,20770383
-722,Q3,1,Transplantation Proceedings,00411345
-723,Q1,1,Current Atherosclerosis Reports,15233804
-724,Q3,1,Journal of Vascular Surgery Cases and Innovative Techniques,24684287
-725,Q4,1,Journal of Pediatric Surgery Case Reports,22135766
-726,Q1,1,Frontiers in Medicine,2296858X
-727,Q3,1,ERS Monograph,2312508X
-728,Q4,1,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-729,Q3,1,Molekuliarnaia biologiia,00268984
-730,Q2,1,BMC Health Services Research,14726963
-731,Q2,1,Nordic Journal of Psychiatry,08039488
-732,Q2,1,Infectious Agents and Cancer,17509378
-733,Q4,1,Case Reports in Neurology,1662680X
-734,Q4,1,Cor et Vasa,00108650
-735,Q3,1,Central European Journal of Immunology,14263912
-736,Q1,1,Applied Immunohistochemistry and Molecular Morphology,15412016
-737,Q2,1,Medicina (Lithuania),1010660X
-738,Q3,1,Pharmacogenomics,14622416
-739,Q3,1,Iranian Journal of Otorhinolaryngology,22517251
-740,Q3,1,Pathogens,20760817
-741,Q1,1,World Journal of Surgery,03642313
-742,Q1,1,Frontiers in Medicine,2296858X
-743,Q2,1,European Journal of Contraception and Reproductive Health Care,13625187
-744,Q2,1,Histology and Histopathology,02133911
-745,Q2,1,Dermatologic Therapy,13960296
-746,Q2,1,Archives of Public Health,07787367
-747,Q3,1,Journal of Medical Case Reports,17521947
-748,Q4,1,Archivos de la Sociedad Espanola de Oftalmologia,03656691
-749,Q2,1,Prosthetics and Orthotics International,03093646
-750,Q4,1,Cor et Vasa,00108650
-752,Q4,1,Activitas Nervosa Superior Rediviva,1337933X
-753,Q1,1,Archives of Medical Science,17341922
-754,Q4,0,Information Psychiatrique,00200204
-755,Q3,0,International Journal of Pharmaceutical Compounding,10924221
-756,Q2,0,Frontiers in Endocrinology,16642392
-757,Q3,0,Children,22279067
-758,Q2,0,Asian Pacific Journal of Reproduction,23050500
-759,Q3,0,BMJ case reports,1757790X
-760,Q2,0,European Journal of Health Law,09290273
-762,Q4,0,"Romanian Journal of Diabetes, Nutrition and Metabolic Diseases",15838609
-763,Q3,0,"Acta Dermatovenerologica Alpina, Pannonica et Adriatica",13184458
-764,Q4,0,Cor et Vasa,00108650
-766,Q4,0,International Journal of Morphology,07179367
-768,Q3,0,Anatolian Journal of Cardiology,21492263
-770,Q2,0,Frontiers in Psychiatry,16640640
-771,Q2,0,Frontiers in Pediatrics,22962360
-772,Q3,0,Acta Medica Lituanica,13920138
-773,Q4,0,Cor et Vasa,00108650
-774,Q3,0,Techniques in Hand and Upper Extremity Surgery,10893393
-775,Q3,0,Cytology and Genetics,00954527
-778,Q2,0,Journal of Functional Morphology and Kinesiology,24115142
-779,Q3,0,American Journal of Case Reports,19415923
-780,Q2,0,Endocrine Connections,20493614
-781,Q2,0,BMC Ophthalmology,14712415
-782,Q2,0,Oncology Letters,17921074
-783,Q3,0,Arquivos Brasileiros de Oftalmologia,00042749
-784,Q1,0,BMC Primary Care,27314553
-785,Q4,0,Clinical and Experimental Obstetrics and Gynecology,03906663
-786,Q4,0,Information Psychiatrique,00200204
-787,Q4,0,Problemy Radiatsiinoi Medytsyny ta Radiobiolohii,23048336
-789,Q2,0,Nordic Journal of Psychiatry,08039488
-790,Q3,0,American Journal of Case Reports,19415923
-791,Q4,0,Tsitologiya,00413771
-792,Q1,0,Archives of Medical Science,17341922
-793,Q4,0,Gynakologie,27317102
-794,Q2,0,Frontiers in Public Health,22962565
-795,Q4,0,Chirurgia (Turin),03949508
-796,Q3,0,Annals of Medicine and Surgery,20490801
-797,Q1,0,International Journal of Infectious Diseases,12019712
-798,Q2,0,Medicina (Lithuania),1010660X
-800,Q4,0,Journal of Clinical and Translational Endocrinology: Case Reports,22146245
-801,Q4,0,Open Neurology Journal,1874205X
-802,Q2,0,Medicina (Lithuania),1010660X
-803,Q3,0,Acta Medica Lituanica,13920138
-804,Q2,0,Journal of Cardiovascular Surgery,00219509
-805,Q1,0,Birth Defects Research,24721727
-807,Q3,0,BMJ case reports,1757790X
-810,Q4,0,Acta Phlebologica,1593232X
-811,Q2,0,Frontiers in Public Health,22962565
-812,Q2,0,Journal of Health Management,09720634
-813,Q1,0,Journal of Thrombosis and Thrombolysis,09295305
-814,Q3,0,Progress in Neurology and Psychiatry,13677543
-815,Q2,0,Acta Medica Iranica,00446025
-816,Q3,0,"Pediatric Endocrinology, Diabetes and Metabolism",20838441
-817,Q2,0,Pediatric Rheumatology,15460096
-818,Q3,0,Advances in Respiratory Medicine,24514934
-819,Q4,0,Oxford Medical Case Reports,20538855
-820,Q3,0,Case Reports in Medicine,16879627
-821,Q3,0,BMJ Case Reports,1757790X
-823,Q4,0,Italian Journal of Anatomy and Embryology,11226714
-824,Q1,0,Journal of Clinical Medicine,20770383
-825,Q3,0,Journal of Personalized Medicine,20754426
+journal_quartile,Citations,Source Title,ISSN
+Q1,588,Ultraschall in der Medizin,01724614
+Q1,284,BMC Public Health,14712458
+Q1,233,"Ultraschall in der Medizin (Stuttgart, Germany : 1980)",14388782
+Q1,192,EMBO Molecular Medicine,17574676
+Q1,185,Journal of Adolescent Health,1054139X
+Q1,179,Frontiers in Immunology,16643224
+Q1,174,Autoimmunity Reviews,15689972
+Q1,169,Frontiers in Microbiology,1664302X
+Q1,163,Journal of Headache and Pain,11292369
+Q1,135,Journal of Adolescent Health,1054139X
+Q1,126,Clinical Infectious Diseases,10584838
+Q1,125,"Scandinavian Journal of Work, Environment and Health",03553140
+Q1,125,European Journal of Pain (United Kingdom),10903801
+Q1,125,Human Reproduction,02681161
+Q1,120,Journal of Adolescent Health,1054139X
+Q1,113,New England Journal of Medicine,00284793
+Q1,108,Cells,20734409
+Q1,102,Diabetologia,0012186X
+Q1,93,Clinical Nutrition,02615614
+Q1,89,Cardiovascular Diabetology,14752840
+Q1,88,Arthritis Care and Research,2151464X
+Q1,85,Eye (Basingstoke),0950222X
+Q2,83,"Medicina (Kaunas, Lithuania)",16489144
+Q1,82,Journal of Headache and Pain,11292369
+Q1,78,Virchows Archiv,09456317
+Q1,67,European Heart Journal,0195668X
+Q1,67,Chest,00123692
+Q1,63,International Journal of Public Health,16618556
+Q1,61,European Respiratory Journal,09031936
+Q1,60,Survey of Ophthalmology,00396257
+Q1,59,Arthritis Research and Therapy,14786354
+Q2,58,Frontiers in Pediatrics,22962360
+Q1,57,Journal of Cystic Fibrosis,15691993
+Q1,56,Journal of Medical Virology,01466615
+Q2,53,Radiologia Medica,00338362
+Q1,53,PLoS Medicine,15491277
+Q2,53,Cancers,20726694
+Q2,53,"Clinical Lymphoma, Myeloma and Leukemia",21522650
+Q1,52,Virus Research,01681702
+Q2,52,Cancers,20726694
+Q3,51,BMJ Open Ophthalmology,23973269
+Q2,50,Medical Ultrasonography,18444172
+Q2,47,Biomedicines,22279059
+Q1,46,Cancers,20726694
+Q1,46,BMC Medical Informatics and Decision Making,14726947
+Q1,46,Microbiology Spectrum,21650497
+Q1,46,International Journal of Environmental Research and Public Health,16617827
+Q1,45,Annals of the Rheumatic Diseases,00034967
+Q1,44,European Psychiatry,09249338
+Q1,44,Pediatric Critical Care Medicine,15297535
+Q1,44,Modern Pathology,08933952
+Q2,43,Medicina (Lithuania),1010660X
+Q1,42,Current Alzheimer Research,15672050
+Q3,41,Microorganisms,20762607
+Q1,41,Military Medical Research,20957467
+Q1,41,Journal of Clinical Immunology,02719142
+Q1,40,Journal of Clinical Medicine,20770383
+Q1,40,Journal of Rheumatology,0315162X
+Q1,39,Acta Ophthalmologica,1755375X
+Q3,39,Genes,20734425
+Q2,36,Journal of Orthopaedic Surgery and Research,1749799X
+Q1,35,American Journal of Human Genetics,00029297
+Q2,34,Annals of General Psychiatry,1744859X
+Q3,34,Biochemistry (Moscow),00062979
+Q1,34,European Journal of Neurology,13515101
+Q1,34,Human Reproduction,02681161
+Q1,34,Ultrasound International Open,2509596X
+Q1,34,Europace,10995129
+Q1,34,Ultraschall in der Medizin,01724614
+Q1,33,Neurogastroenterology and Motility,13501925
+Q2,32,Pulmonary Circulation,20458932
+Q3,31,European Journal of Medical Genetics,17697212
+Q1,31,Arthritis Research and Therapy,14786354
+Q2,30,Frontiers in Pediatrics,22962360
+Q4,29,RoFo Fortschritte auf dem Gebiet der Rontgenstrahlen und der Bildgebenden Verfahren,14389029
+Q1,28,Journal of the European Academy of Dermatology and Venereology,09269959
+Q1,28,Multiple Sclerosis Journal,13524585
+Q2,27,International Journal of Environmental Research and Public Health,16617827
+Q1,27,Histopathology,03090167
+Q1,27,International Journal of Gynecological Cancer,1048891X
+Q1,27,Journal of Epidemiology and Community Health,0143005X
+Q1,27,Cancer Cytopathology,1934662X
+Q1,26,European Journal of Endocrinology,08044643
+Q4,26,Experimental Oncology,18129269
+Q1,26,Health Policy,01688510
+Q1,26,Journal of Cataract and Refractive Surgery,08863350
+Q2,25,Aging Male,13685538
+Q1,25,Insights into Imaging,18694101
+Q2,25,Medicina (Lithuania),1010660X
+Q1,25,Journal of Lower Genital Tract Disease,10892591
+Q1,24,Journal of Reproductive Immunology,01650378
+Q1,24,Current Medicinal Chemistry,09298673
+Q1,23,Frontiers in Microbiology,1664302X
+Q1,23,Clinical Infectious Diseases,10584838
+Q1,23,Cartilage,19476035
+Q1,23,Medicine and Science in Sports and Exercise,01959131
+Q2,23,Nordic Journal of Psychiatry,08039488
+Q2,22,Frontiers in Endocrinology,16642392
+Q2,22,BMJ Paediatrics Open,23999772
+Q3,22,BMC Gastroenterology,1471230X
+Q2,22,Medicina (Lithuania),1010660X
+Q2,22,Pathology Research and Practice,03440338
+Q2,22,Endocrine Journal,09188959
+Q1,22,European Child and Adolescent Psychiatry,10188827
+Q1,21,Vaccine,0264410X
+Q1,21,European Journal of Anaesthesiology,02650215
+Q1,21,Health Policy,01688510
+Q2,21,Human Vaccines and Immunotherapeutics,21645515
+Q2,21,Gynecological Endocrinology,09513590
+Q1,21,BMC Public Health,14712458
+Q2,21,Medicina (Lithuania),1010660X
+Q1,21,Epidemiology and Psychiatric Sciences,20457960
+Q2,20,Journal of Ophthalmology,2090004X
+Q2,20,Medical Ultrasonography,18444172
+Q2,20,Nordic Journal of Psychiatry,08039488
+Q1,20,Europace,10995129
+Q1,20,Biogerontology,13895729
+Q1,20,Acta Ophthalmologica,1755375X
+Q1,20,Molecules,14203049
+Q2,20,Journal of Ophthalmology,2090004X
+Q1,20,Pharmacopsychiatry,01763679
+Q1,20,Neuromodulation,10947159
+Q3,20,European Neurology,00143022
+Q1,19,Clinical and Experimental Immunology,00099104
+Q3,19,BMJ Paediatrics Open,23999772
+Q1,19,Psychology Research and Behavior Management,11791578
+Q2,18,Frontiers in Medicine,2296858X
+Q1,18,Cardiovascular Drugs and Therapy,09203206
+Q2,18,Acta Radiologica,02841851
+Q1,18,Annals of the Rheumatic Diseases,00034967
+Q1,18,Journal of Clinical Medicine,20770383
+Q2,18,Medicina (Lithuania),1010660X
+Q2,18,Medicina (Lithuania),1010660X
+Q2,17,International Clinical Psychopharmacology,02681315
+Q1,17,Frontiers in Immunology,16643224
+Q2,17,Infectious Agents and Cancer,17509378
+Q1,17,Pediatric Critical Care Medicine,15297535
+Q1,17,Survey of Ophthalmology,00396257
+Q2,17,Acta Anaesthesiologica Scandinavica,00015172
+Q1,17,Journal of Molecular Diagnostics,15251578
+Q4,17,The Lancet Regional Health - Southeast Asia,27723682
+Q1,17,International Breastfeeding Journal,17464358
+Q2,17,Medicina (Lithuania),1010660X
+Q3,17,Polish Journal of Pathology,12339687
+Q2,17,BMC Cancer,14712407
+Q2,17,Medicina (Lithuania),1010660X
+Q2,17,Pediatric Surgery International,01790358
+Q2,17,Medicina (Lithuania),1010660X
+Q1,17,Health Policy,01688510
+Q2,17,Viruses,19994915
+Q1,17,BMJ Open,20446055
+Q1,17,Clinical Infectious Diseases,10584838
+Q1,17,Virchows Archiv,09456317
+Q2,16,BMC Anesthesiology,14712253
+Q2,16,Journal of Ultrasound in Medicine,02784297
+Q1,16,Cornea,02773740
+Q2,16,Frontiers in Psychiatry,16640640
+Q1,16,Expert Review of Vaccines,14760584
+Q1,15,Journal of Affective Disorders,01650327
+Q2,15,Heart Lung and Circulation,14439506
+Q1,15,Antibiotics,20796382
+Q1,15,Journal of Primary Care and Community Health,21501319
+Q2,15,European Journal of Obstetrics and Gynecology and Reproductive Biology,03012115
+Q1,15,Shock,10732322
+Q1,15,International Journal of Environmental Research and Public Health,16617827
+Q1,15,European Journal of Anaesthesiology,02650215
+Q1,14,Orthodontics and Craniofacial Research,16016335
+Q3,14,Current Neurovascular Research,15672026
+Q2,14,Journal of Applied Physiology,87507587
+Q3,14,Biochemistry (Moscow),00062979
+Q3,14,BMC Medical Genomics,17558794
+Q2,14,Vaccines,2076393X
+Q1,14,Journal of Neurotrauma,08977151
+Q2,14,Geriatrics (Switzerland),23083417
+Q2,14,Frontiers in Medicine,2296858X
+Q2,14,Medicina (Lithuania),1010660X
+Q1,14,International Journal of Environmental Research and Public Health,16617827
+Q2,13,Frontiers in Pediatrics,22962360
+Q1,13,International Journal of Environmental Research and Public Health,16617827
+Q1,13,Health Policy,01688510
+Q1,13,Journal of the European Academy of Dermatology and Venereology,09269959
+Q2,13,Journal of Human Genetics,14345161
+Q1,13,Annals of General Psychiatry,1744859X
+Q1,13,Reproduction,14701626
+Q1,13,Journal of Diabetes Investigation,20401116
+Q2,13,Annals of Diagnostic Pathology,10929134
+Q1,13,Health systems in transition,18176127
+Q1,13,BMC Public Health,14712458
+Q1,12,European Journal of Vascular and Endovascular Surgery,10785884
+Q2,12,Medicina (Lithuania),1010660X
+Q1,12,The Lancet Regional Health - Europe,26667762
+Q1,12,Diabetic Medicine,07423071
+Q1,12,Neurobiology of Disease,09699961
+Q1,12,European Journal of Neurology,13515101
+Q1,12,Medical Principles and Practice,10117571
+Q2,11,Journal of medical case reports,17521947
+Q3,11,Hereditary Cancer in Clinical Practice,17312302
+Q2,11,BMC Pediatrics,14712431
+Q2,11,Biomedicines,22279059
+Q2,11,Scandinavian Journal of Primary Health Care,02813432
+Q1,11,International Journal of Environmental Research and Public Health,16617827
+Q2,11,Journal of Ophthalmology,2090004X
+Q4,11,Microorganisms,20762607
+Q2,11,Medicina (Lithuania),1010660X
+Q2,11,Frontiers in Psychiatry,16640640
+Q2,11,Medicina (Lithuania),1010660X
+Q2,11,Frontiers in Endocrinology,16642392
+Q2,11,Evidence-Based Mental Health,13620347
+Q1,11,Viruses,19994915
+Q1,11,Frontiers in Microbiology,1664302X
+Q1,11,World Journal of Emergency Surgery,17497922
+Q2,11,Medicina (Lithuania),1010660X
+Q2,11,Journal of Cellular and Molecular Medicine,15821838
+Q2,11,Cleft Palate-Craniofacial Journal,10556656
+Q1,11,Gastric Cancer,14363291
+Q2,11,Vaccines,2076393X
+Q1,11,International Journal of Neonatal Screening,2409515X
+Q2,11,Journal of Current Ophthalmology,24522325
+Q1,11,Ultraschall in der Medizin,01724614
+Q1,11,Europace,10995129
+Q1,11,Health Policy,01688510
+Q2,11,Medicina (Lithuania),1010660X
+Q1,11,Journal of Vascular Surgery,07415214
+Q3,11,Genes,20734425
+Q2,11,Cancers,20726694
+Q1,11,Archives of Disease in Childhood,00039888
+Q1,11,Behavioural Brain Research,01664328
+Q2,11,Journal of NeuroVirology,13550284
+Q4,11,Experimental Oncology,18129269
+Q2,11,Medicina (Lithuania),1010660X
+Q1,11,Viruses,19994915
+Q2,11,Pediatric Infectious Disease Journal,08913668
+Q3,11,International Journal of Pediatrics and Adolescent Medicine,23526467
+Q1,10,Health and Quality of Life Outcomes,14777525
+Q1,10,Molecular Neurobiology,08937648
+Q1,10,Ethnicity and Health,13557858
+Q1,10,"Infection, Genetics and Evolution",15671348
+Q1,10,Cardiovascular Diabetology,14752840
+Q4,10,OBM Neurobiology,25734407
+Q1,10,Journal of Vascular Surgery,07415214
+Q1,10,International Journal of Environmental Research and Public Health,16617827
+Q2,10,Frontiers in Psychiatry,16640640
+Q2,10,International Journal of Environmental Research and Public Health,16617827
+Q2,10,Journal of Intelligence,20793200
+Q2,10,Vector-Borne and Zoonotic Diseases,15303667
+Q1,10,Frontiers in Medicine,2296858X
+Q2,10,Frontiers in Psychiatry,16640640
+Q2,10,Scandinavian Journal of Gastroenterology,00365521
+Q1,10,Acta Ophthalmologica,1755375X
+Q1,10,Drug and Alcohol Dependence,03768716
+Q4,10,OBM Neurobiology,25734407
+Q1,10,Biochimica et Biophysica Acta - Reviews on Cancer,0304419X
+Q1,10,Journal of Refractive Surgery,1081597X
+Q2,10,Medicine (United States),00257974
+Q2,10,Cardiovascular Diagnosis and Therapy,22233652
+Q2,10,Journal of Inflammation Research,11787031
+Q2,10,Nordic Journal of Psychiatry,08039488
+Q2,9,Frontiers in Oncology,2234943X
+Q3,9,Frontiers in Genetics,16648021
+Q1,9,Frontiers in Microbiology,1664302X
+Q3,9,Hormones,11093099
+Q1,9,Archives of Gerontology and Geriatrics,01674943
+Q1,9,Frontiers in Aging Neuroscience,16634365
+Q2,9,Frontiers in Public Health,22962565
+Q2,9,International Urogynecology Journal,09373462
+Q2,9,Medical Ultrasonography,18444172
+Q1,9,Biochimica et Biophysica Acta - Molecular Basis of Disease,09254439
+Q1,9,Journal of the European Academy of Dermatology and Venereology,09269959
+Q1,9,Molecular Psychiatry,13594184
+Q2,9,Gynecological Endocrinology,09513590
+Q2,9,BMC Health Services Research,14726963
+Q2,9,European Journal of Gastroenterology and Hepatology,0954691X
+Q2,9,Medicina (Lithuania),1010660X
+Q1,9,Frontiers in Microbiology,1664302X
+Q2,9,Medicina (Lithuania),1010660X
+Q2,9,Medicina (Lithuania),1010660X
+Q2,9,Leukemia Research,01452126
+Q2,9,Microsurgery,07381085
+Q1,9,Pediatric Nephrology,0931041X
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,BMJ Simulation and Technology Enhanced Learning,20566697
+Q2,8,Urologia Internationalis,00421138
+Q3,8,Genes,20734425
+Q4,8,Experimental Oncology,18129269
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,Health Science Reports,23988835
+Q1,8,Primary Care Diabetes,17519918
+Q3,8,"Immunity, Inflammation and Disease",20504527
+Q1,8,Cancers,20726694
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,Biotechnic and Histochemistry,10520295
+Q2,8,Annals of Diagnostic Pathology,10929134
+Q2,8,International Clinical Psychopharmacology,02681315
+Q2,8,Healthcare (Switzerland),22279032
+Q2,8,International Journal of Environmental Research and Public Health,16617827
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,BMC Pediatrics,14712431
+Q2,8,Medicina (Lithuania),1010660X
+Q1,8,Medicine (United States),00257974
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,Medicina (Lithuania),1010660X
+Q2,8,Cancers,20726694
+Q2,7,Journal of Immunology Research,23148861
+Q3,7,Journal of Healthcare Engineering,20402295
+Q3,7,Clinical Nutrition ESPEN,24054577
+Q3,7,European Journal of Medical Genetics,17697212
+Q1,7,Health and Quality of Life Outcomes,14777525
+Q2,7,Healthcare (Switzerland),22279032
+Q3,7,General Dentistry,03636771
+Q2,7,Genes,20734425
+Q1,7,Contraception,00107824
+Q2,7,Medicina (Lithuania),1010660X
+Q1,7,Journal of Clinical Medicine,20770383
+Q2,7,International Ophthalmology,01655701
+Q1,7,Infectious Diseases in Obstetrics and Gynecology,10647449
+Q2,7,Urology,00904295
+Q2,7,Cancers,20726694
+Q2,7,Electronic Journal of General Medicine,25163507
+Q1,7,Molecules,14203049
+Q1,7,Gastroenterology,00165085
+Q2,7,Medicina (Lithuania),1010660X
+Q3,7,Infectious Disease Reports,20367449
+Q2,7,Journal of Cancer Research and Clinical Oncology,01715216
+Q1,7,Journal of the European Academy of Dermatology and Venereology,09269959
+Q2,6,Vaccines,2076393X
+Q1,6,Respiratory Research,14659921
+Q2,6,Open Heart,2398595X
+Q2,6,Simulation in Healthcare,15592332
+Q3,6,Children,22279067
+Q2,6,Antibiotics,20796382
+Q3,6,Children,22279067
+Q1,6,Viruses,19994915
+Q1,6,BMJ Open,20446055
+Q1,6,Journal of Clinical Medicine,20770383
+Q3,6,Avant,20826710
+Q1,6,International Journal of Environmental Research and Public Health,16617827
+Q2,6,Medicina (Lithuania),1010660X
+Q2,6,Journal of Pharmaceutical Policy and Practice,20523211
+Q2,6,Rural and Remote Health,14456354
+Q1,6,Updates in Surgery,2038131X
+Q2,6,Vector-Borne and Zoonotic Diseases,15303667
+Q3,6,Monash bioethics review,18366716
+Q2,6,Medicina (Lithuania),1010660X
+Q4,6,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
+Q2,6,International Journal of Dermatology,00119059
+Q1,6,Pediatric Infectious Disease Journal,08913668
+Q1,6,Journal of Clinical Medicine,20770383
+Q2,6,Brain and Behavior,21623279
+Q1,6,Frontiers in Medicine,2296858X
+Q2,5,Journal of Hand Surgery: European Volume,17531934
+Q2,5,Frontiers in Endocrinology,16642392
+Q2,5,Frontiers in Neurology,16642295
+Q2,5,Immunology Letters,01652478
+Q2,5,Biomedicines,22279059
+Q3,5,Polish Journal of Veterinary Sciences,15051773
+Q2,5,Frontiers in Neurology,16642295
+Q2,5,IISE Transactions on Occupational Ergonomics and Human Factors,24725838
+Q2,5,Medicina (Lithuania),1010660X
+Q3,5,Techniques in Hand and Upper Extremity Surgery,10893393
+Q1,5,LGBT Health,23258292
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Brain and Behavior,21623279
+Q2,5,Medicina (Lithuania),1010660X
+Q1,5,Wiener Klinische Wochenschrift,00435325
+Q1,5,Journal of Clinical Virology,13866532
+Q4,5,Studies in Health Technology and Informatics,09269630
+Q2,5,Journal of Back and Musculoskeletal Rehabilitation,10538127
+Q2,5,"Medicina (Kaunas, Lithuania)",16489144
+Q2,5,BMC Pediatrics,14712431
+Q4,5,Clinical and Experimental Obstetrics and Gynecology,03906663
+Q2,5,Experimental and Clinical Endocrinology and Diabetes,09477349
+Q3,5,Global Pediatric Health,2333794X
+Q2,5,BMJ Simulation and Technology Enhanced Learning,20566697
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,International Angiology,03929590
+Q1,5,International Review of Psychiatry,09540261
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Growth Hormone and IGF Research,10966374
+Q3,5,Brain Sciences,20763425
+Q3,5,Journal of Cardiothoracic Surgery,17498090
+Q1,5,Frontiers in Microbiology,1664302X
+Q3,5,Hereditary Cancer in Clinical Practice,17312302
+Q2,5,Biomedical Reports,20499434
+Q1,5,Arthritis Care and Research,2151464X
+Q1,5,Viruses,19994915
+Q1,5,BMJ Open Sport and Exercise Medicine,20557647
+Q1,5,RMD Open,20565933
+Q1,5,European Journal of Pediatrics,03406199
+Q3,5,Expert Review of Ophthalmology,17469899
+Q1,5,Acta Oncologica,0284186X
+Q1,5,Disability and Rehabilitation,09638288
+Q3,5,Brain Sciences,20763425
+Q1,5,Health Research Policy and Systems,14784505
+Q3,5,European Journal of Plastic Surgery,0930343X
+Q1,5,Asia-Pacific Journal of Ophthalmology,21620989
+Q1,5,International Journal of Gynecology and Obstetrics,00207292
+Q1,5,Health Policy,01688510
+Q2,5,Annals of Transplantation,14259524
+Q1,5,Journal of Cataract and Refractive Surgery,08863350
+Q2,5,Epilepsy and Behavior,15255050
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Medicina (Lithuania),1010660X
+Q4,5,Cor et Vasa,00108650
+Q2,5,Urology,00904295
+Q2,5,BMC Cancer,14712407
+Q2,5,Biomedicines,22279059
+Q3,5,Children,22279067
+Q2,5,European Journal of Ophthalmology,11206721
+Q3,5,Neurology International,20358385
+Q2,5,Stomatologija,13928589
+Q1,5,International Journal of Gynecology and Obstetrics,00207292
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,International Journal of Environmental Research and Public Health,16617827
+Q2,5,Medicina (Lithuania),1010660X
+Q1,5,Genes and Diseases,23524820
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Frontiers in Genetics,16648021
+Q3,5,Strategies in Trauma and Limb Reconstruction,18288936
+Q1,5,Journal of Assisted Reproduction and Genetics,10580468
+Q2,5,Medicina (Lithuania),1010660X
+Q1,5,International Journal of Gynecology and Obstetrics,00207292
+Q1,5,BMJ Open,20446055
+Q2,5,Nordic Journal of Psychiatry,08039488
+Q2,5,Biomedicines,22279059
+Q2,5,Journal of Medical Biochemistry,14528258
+Q1,5,Europace,10995129
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Viruses,19994915
+Q1,5,International Journal of Environmental Research and Public Health,16617827
+Q2,5,Medicina (Lithuania),1010660X
+Q2,5,Frontiers in Neurology,16642295
+Q2,5,International Journal of Environmental Research and Public Health,16617827
+Q2,5,Journal of Nutrition and Metabolism,20900724
+Q1,5,Eurosurveillance,1025496X
+Q2,5,Journal of Ophthalmology,2090004X
+Q1,5,International Journal of Environmental Research and Public Health,16617827
+Q3,5,Microorganisms,20762607
+Q1,4,BMJ Open,20446055
+Q2,4,Medicina (Lithuania),1010660X
+Q1,4,Viruses,19994915
+Q2,4,Trials,17456215
+Q1,4,Journal of Clinical Medicine,20770383
+Q1,4,Bulletin of the World Health Organization,00429686
+Q2,4,Annals of Diagnostic Pathology,10929134
+Q3,4,Brain and Behavior,21623279
+Q2,4,BMC Pediatrics,14712431
+Q2,4,Medicina (Lithuania),1010660X
+Q2,4,Neurology: Genetics,23767839
+Q1,4,The Lancet Regional Health - Europe,26667762
+Q1,4,International Journal of Environmental Research and Public Health,16617827
+Q1,4,Upsala Journal of Medical Sciences,03009734
+Q2,4,Frontiers in Endocrinology,16642392
+Q2,4,Journal of Musculoskeletal Neuronal Interactions,11087161
+Q2,4,Frontiers in Public Health,22962565
+Q2,4,Medicina (Lithuania),1010660X
+Q3,4,"American Journal of Medical Genetics, Part A",15524825
+Q2,4,Journal of Human Hypertension,09509240
+Q2,4,Medicina (Lithuania),1010660X
+Q4,4,Voprosy Prakticheskoi Pediatrii,18177646
+Q4,4,The journal of hand surgery Asian-Pacific volume,24248363
+Q2,4,Medicina (Lithuania),1010660X
+Q2,4,Frontiers in Oncology,2234943X
+Q1,4,Disability and Rehabilitation,09638288
+Q2,4,Asian Pacific Journal of Cancer Prevention,15137368
+Q2,4,Annals of Diagnostic Pathology,10929134
+Q4,4,Journal of Ultrasonography,20848404
+Q2,4,European Journal of Contraception and Reproductive Health Care,13625187
+Q1,4,European Journal of General Practice,13814788
+Q2,4,Medicina (Lithuania),1010660X
+Q1,4,Vaccines,2076393X
+Q1,4,Human Mutation,10597794
+Q1,4,Antibiotics,20796382
+Q3,4,Techniques in Hand and Upper Extremity Surgery,10893393
+Q1,4,United European gastroenterology journal,20506414
+Q1,4,International Journal of Public Health,16618556
+Q1,4,Archives of Disease in Childhood,00039888
+Q2,3,Biomedicines,22279059
+Q2,3,Permanente Journal,15525767
+Q2,3,IEEE International Conference on Rehabilitation Robotics,19457898
+Q3,3,European Journal of Health Law,09290273
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Biomedicines,22279059
+Q4,3,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
+Q2,3,Human Vaccines and Immunotherapeutics,21645515
+Q2,3,Acta Naturae,20758251
+Q2,3,Medicina (Lithuania),1010660X
+Q1,3,Journal of Antimicrobial Chemotherapy,03057453
+Q2,3,Systems Biology in Reproductive Medicine,19396368
+Q4,3,Activitas Nervosa Superior Rediviva,1337933X
+Q2,3,Healthcare (Switzerland),22279032
+Q2,3,Cancers,20726694
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,BMC Musculoskeletal Disorders,14712474
+Q1,3,Cornea,02773740
+Q3,3,International Journal of Surgical Pathology,10668969
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Journal of Diabetes and its Complications,10568727
+Q3,3,Stomatologija,1822301X
+Q1,3,Journal of Cataract and Refractive Surgery,08863350
+Q3,3,Romanian Journal of Morphology and Embryology,12200522
+Q3,3,Advances in Respiratory Medicine,24514934
+Q2,3,Frontiers in Psychiatry,16640640
+Q3,3,Current Rheumatology Reviews,15733971
+Q2,3,AIDS,02699370
+Q1,3,European Journal of Pediatrics,03406199
+Q2,3,Medicina (Lithuania),1010660X
+Q3,3,American Journal of Case Reports,19415923
+Q2,3,Microbiology Spectrum,21650497
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Healthcare (Switzerland),22279032
+Q1,3,Journal of Cranio-Maxillofacial Surgery,10105182
+Q2,3,BMC Pediatrics,14712431
+Q3,3,International Journal of Pharmaceutical Compounding,10924221
+Q2,3,Biomedicines,22279059
+Q1,3,European Journal of Pediatric Surgery,09397248
+Q2,3,Frontiers in Endocrinology,16642392
+Q1,3,International Journal of Environmental Research and Public Health,16617827
+Q2,3,Health Psychology and Behavioral Medicine,21642850
+Q3,3,Brain Sciences,20763425
+Q1,3,Cosmetics,20799284
+Q3,3,Experimental Oncology,18129269
+Q1,3,Nordic Journal of Music Therapy,08098131
+Q1,3,Journal of Clinical Medicine,20770383
+Q1,3,European Archives of Psychiatry and Clinical Neuroscience,09401334
+Q2,3,Medicina (Lithuania),1010660X
+Q3,3,Brain Sciences,20763425
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Nordic Journal of Psychiatry,08039488
+Q2,3,Breathe,18106838
+Q2,3,Medicina (Lithuania),1010660X
+Q1,3,Patient Education and Counseling,07383991
+Q2,3,Medicine and Pharmacy Reports,26020807
+Q3,3,American Journal of Case Reports,19415923
+Q1,3,"Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology",22124403
+Q2,3,Medicina (Lithuania),1010660X
+Q2,3,Medicina (Lithuania),1010660X
+Q1,3,Annals of Surgical Oncology,10689265
+Q3,3,Hereditary Cancer in Clinical Practice,17312302
+Q2,3,Tuberculosis,14729792
+Q1,3,Cosmetics,20799284
+Q2,3,Pediatric Hematology and Oncology,08880018
+Q2,3,Genes,20734425
+Q1,3,International Journal of Women's Health,11791411
+Q1,3,International Journal of Environmental Research and Public Health,16617827
+Q4,2,HIV and AIDS Review,17301270
+Q1,2,Journal of Clinical Medicine,20770383
+Q3,2,American Journal of Case Reports,19415923
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,Medicina (Lithuania),1010660X
+Q1,2,Journal of Histochemistry and Cytochemistry,00221554
+Q2,2,BMC Infectious Diseases,14712334
+Q2,2,Physical Activity Review,23005076
+Q2,2,Pathogens,20760817
+Q3,2,Case Reports in Ophthalmology,16632699
+Q2,2,American Journal of Case Reports,19415923
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,Biomedicines,22279059
+Q3,2,Neurology Psychiatry and Brain Research,09419500
+Q2,2,International Journal of Environmental Research and Public Health,16617827
+Q4,2,Cor et Vasa,00108650
+Q3,2,Polish Journal of Pathology,12339687
+Q4,2,"Molecular Genetics, Microbiology and Virology",08914168
+Q1,2,"Medicine, Health Care and Philosophy",13867423
+Q2,2,Medicina (Lithuania),1010660X
+Q1,2,BMC Cancer,14712407
+Q3,2,Journal of Surgical Case Reports,20428812
+Q3,2,Clinical Medicine Insights: Arthritis and Musculoskeletal Disorders,11795441
+Q1,2,Psychology Research and Behavior Management,11791578
+Q3,2,Journal of Obstetrics and Gynaecology Research,13418076
+Q2,2,Medicina (Lithuania),1010660X
+Q4,2,Cor et Vasa,00108650
+Q2,2,Medicina (Lithuania),1010660X
+Q3,2,Stomatologija,1822301X
+Q3,2,Techniques in Hand and Upper Extremity Surgery,10893393
+Q2,2,Medicina (Lithuania),1010660X
+Q1,2,International Journal of Health Policy and Management,23225939
+Q2,2,Medicina (Lithuania),1010660X
+Q1,2,Therapeutic Advances in Respiratory Disease,17534658
+Q2,2,European Journal of Ophthalmology,11206721
+Q2,2,Medicina (Lithuania),1010660X
+Q3,2,Open Dermatology Journal,18743722
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,European Journal of Ophthalmology,11206721
+Q2,2,Medicina (Lithuania),1010660X
+Q2,2,Folia Morphologica (Poland),00155659
+Q1,2,Journal of Clinical Medicine,20770383
+Q3,2,Pediatric Neurosurgery,10162291
+Q1,2,International Journal of Women's Health,11791411
+Q2,2,Hepatitis Monthly,1735143X
+Q2,2,Medicina (Lithuania),1010660X
+Q4,2,Balkan Journal of Medical Genetics,13110160
+Q3,2,Journal of Medical Biochemistry,14528258
+Q1,2,Journal of Clinical Medicine,20770383
+Q3,2,Clinical Case Reports,20500904
+Q3,2,American Journal of Case Reports,19415923
+Q2,2,Psychiatria Danubina,03535053
+Q2,2,International Journal of Environmental Research and Public Health,16617827
+Q1,2,Cell and Tissue Research,0302766X
+Q1,2,Europace,10995129
+Q4,2,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
+Q4,1,SAGE Open Medical Case Reports,2050313X
+Q3,1,Children,22279067
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,Frontiers in Medicine,2296858X
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,Nordic Journal of Psychiatry,08039488
+Q2,1,Genes,20734425
+Q4,1,OBM Neurobiology,25734407
+Q3,1,Vaccines,2076393X
+Q1,1,Current Eye Research,02713683
+Q3,1,Archivos de la Sociedad Espanola de Oftalmologia,03656691
+Q3,1,Experimental Oncology,18129269
+Q4,1,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
+Q1,1,Cosmetics,20799284
+Q3,1,Hereditary Cancer in Clinical Practice,17312302
+Q1,1,Gait and Posture,09666362
+Q4,1,European Heart Journal - Case Reports,25142119
+Q3,1,Stomatologija,13928589
+Q2,1,Frontiers in Pediatrics,22962360
+Q3,1,Central European Journal of Urology,20804806
+Q2,1,Anesthesiology and Pain Medicine,22287523
+Q2,1,Nordic Journal of Psychiatry,08039488
+Q3,1,Cleft Palate-Craniofacial Journal,10556656
+Q1,1,European Journal of Neurology,13515101
+Q2,1,Medicina (Lithuania),1010660X
+Q3,1,Experimental Oncology,18129269
+Q1,1,International Journal of Environmental Research and Public Health,16617827
+Q3,1,American Journal of Case Reports,19415923
+Q1,1,Journal of Clinical Medicine,20770383
+Q2,1,Ethics and Bioethics (in Central Europe),13385615
+Q2,1,Neurology: Genetics,23767839
+Q3,1,Brain Sciences,20763425
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,The American journal of case reports,19415923
+Q2,1,"Clinical, Cosmetic and Investigational Dermatology",11787015
+Q3,1,Pharmacogenomics and Personalized Medicine,11787066
+Q3,1,Case Reports in Ophthalmology,16632699
+Q4,1,Activitas Nervosa Superior Rediviva,1337933X
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,European Journal of Contraception and Reproductive Health Care,13625187
+Q3,1,Hereditary Cancer in Clinical Practice,17312302
+Q2,1,Neurologia i Neurochirurgia Polska,00283843
+Q3,1,BMC Endocrine Disorders,14726823
+Q1,1,United European gastroenterology journal,20506414
+Q1,1,Journal of Hypertension,02636352
+Q3,1,Microorganisms,20762607
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,Medicina (Lithuania),1010660X
+Q2,1,Frontiers in Oncology,2234943X
+Q1,1,PeerJ,21678359
+Q4,1,Acta Chirurgiae Orthopaedicae et Traumatologiae Cechoslovaca,00015415
+Q3,1,Central European Journal of Urology,20804806
+Q3,1,Baylor University Medical Center Proceedings,08998280
+Q3,1,Anais Brasileiros de Dermatologia,03650596
+Q2,1,Primary Care Diabetes,17519918
+Q4,1,Case Reports in Oncology,16626575
+Q2,1,Histology and Histopathology,02133911
+Q1,1,BMC Public Health,14712458
+Q3,1,Wspolczesna Onkologia,14282526
+Q1,1,United European Gastroenterology Journal,20506406
+Q2,1,"Allergy, Asthma and Clinical Immunology",17101484
+Q1,1,International Journal of Environmental Research and Public Health,16617827
+Q3,1,Hereditary Cancer in Clinical Practice,17312302
+Q2,1,Gynecological Endocrinology,09513590
+Q4,0,Acta Medica Lituanica,13920138
+Q4,0,Cor et Vasa,00108650
+Q3,0,International Journal of Reproductive BioMedicine,24764108
+Q3,0,Current Rheumatology Reviews,15733971
+Q2,0,Dental press journal of orthodontics,21776709
+Q1,0,Vaccine: X,25901362
+Q2,0,Frontiers in Pediatrics,22962360
+Q3,0,Children,22279067
+Q3,0,Brain Sciences,20763425
+Q2,0,Medicina (Lithuania),1010660X
+Q2,0,Stomatologija,13928589
+Q4,0,Italian Journal of Anatomy and Embryology,11226714
+Q2,0,Journal of Personalized Medicine,20754426
+Q3,0,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
+Q2,0,Primary Health Care Research and Development,14634236
+Q1,0,Journal of Rehabilitation Medicine,16501977
+Q4,0,Radiology Case Reports,19300433
+Q1,0,Journal of Adolescent Health,1054139X
+Q2,0,Frontiers in Medicine,2296858X
+Q3,0,Case Reports in Medicine,16879627
+Q3,0,JMIR Formative Research,2561326X
+Q3,0,International Journal of Pharmaceutical Compounding,10924221
+Q2,0,Israel Medical Association Journal,15651088
+Q2,0,Frontiers in Psychiatry,16640640
+Q3,0,American Journal of Case Reports,19415923
+Q1,0,European Journal of Physical and Rehabilitation Medicine,19739087
+Q3,0,Case Reports in Dermatology,16626567
+Q3,0,Journal of Interventional Cardiology,08964327
+Q3,0,American Journal of Case Reports,19415923
+Q3,0,Stomatologija,13928589
+Q2,0,Medicina (Lithuania),1010660X
+Q3,0,American Journal of Case Reports,19415923
+Q1,0,Journal of Clinical Medicine,20770383
+Q3,0,Transplantation Proceedings,00411345
+Q1,0,Current Atherosclerosis Reports,15233804
+Q3,0,Journal of Vascular Surgery Cases and Innovative Techniques,24684287
+Q4,0,Journal of Pediatric Surgery Case Reports,22135766
+Q1,0,Frontiers in Medicine,2296858X
+Q3,0,ERS Monograph,2312508X
+Q4,0,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
+Q3,0,Molekuliarnaia biologiia,00268984
+Q3,0,Molekuliarnaia biologiia,00268984
+Q2,0,BMC Health Services Research,14726963
+Q2,0,Nordic Journal of Psychiatry,08039488
+Q2,0,Infectious Agents and Cancer,17509378
+Q4,0,Case Reports in Neurology,1662680X
+Q4,0,Cor et Vasa,00108650
+Q3,0,Central European Journal of Immunology,14263912
+Q1,0,Applied Immunohistochemistry and Molecular Morphology,15412016
+Q2,0,Medicina (Lithuania),1010660X
+Q3,0,Pharmacogenomics,14622416
+Q3,0,Iranian Journal of Otorhinolaryngology,22517251
+Q3,0,Pathogens,20760817
+Q1,0,World Journal of Surgery,03642313
+Q1,0,Frontiers in Medicine,2296858X
+Q2,0,European Journal of Contraception and Reproductive Health Care,13625187
+Q2,0,Histology and Histopathology,02133911
+Q2,0,Dermatologic Therapy,13960296
+Q2,0,Archives of Public Health,07787367
+Q3,0,Journal of Medical Case Reports,17521947
+Q4,0,Archivos de la Sociedad Espanola de Oftalmologia,03656691
+Q2,0,Prosthetics and Orthotics International,03093646
+Q4,0,Cor et Vasa,00108650
+Q4,0,Activitas Nervosa Superior Rediviva,1337933X
+Q1,0,Archives of Medical Science,17341922
+Q4,0,Information Psychiatrique,00200204
+Q3,0,International Journal of Pharmaceutical Compounding,10924221
+Q2,0,Frontiers in Endocrinology,16642392
+Q3,0,Children,22279067
+Q2,0,Asian Pacific Journal of Reproduction,23050500
+Q3,0,BMJ case reports,1757790X
+Q2,0,European Journal of Health Law,09290273
+Q4,0,"Romanian Journal of Diabetes, Nutrition and Metabolic Diseases",15838609
+Q3,0,"Acta Dermatovenerologica Alpina, Pannonica et Adriatica",13184458
+Q4,0,Cor et Vasa,00108650
+Q4,0,International Journal of Morphology,07179367
+Q3,0,Anatolian Journal of Cardiology,21492263
+Q2,0,Frontiers in Psychiatry,16640640
+Q2,0,Frontiers in Pediatrics,22962360
+Q3,0,Acta Medica Lituanica,13920138
+Q4,0,Cor et Vasa,00108650
+Q3,0,Techniques in Hand and Upper Extremity Surgery,10893393
+Q3,0,Cytology and Genetics,00954527
+Q2,0,Journal of Functional Morphology and Kinesiology,24115142
+Q3,0,American Journal of Case Reports,19415923
+Q2,0,Endocrine Connections,20493614
+Q2,0,BMC Ophthalmology,14712415
+Q2,0,Oncology Letters,17921074
+Q3,0,Arquivos Brasileiros de Oftalmologia,00042749
+Q1,0,BMC Primary Care,27314553
+Q4,0,Clinical and Experimental Obstetrics and Gynecology,03906663
+Q4,0,Information Psychiatrique,00200204
+Q4,0,Problemy Radiatsiinoi Medytsyny ta Radiobiolohii,23048336
+Q2,0,Nordic Journal of Psychiatry,08039488
+Q3,0,American Journal of Case Reports,19415923
+Q4,0,Tsitologiya,00413771
+Q1,0,Archives of Medical Science,17341922
+Q4,0,Gynakologie,27317102
+Q2,0,Frontiers in Public Health,22962565
+Q4,0,Chirurgia (Turin),03949508
+Q3,0,Annals of Medicine and Surgery,20490801
+Q1,0,International Journal of Infectious Diseases,12019712
+Q2,0,Medicina (Lithuania),1010660X
+Q4,0,Journal of Clinical and Translational Endocrinology: Case Reports,22146245
+Q4,0,Open Neurology Journal,1874205X
+Q2,0,Medicina (Lithuania),1010660X
+Q3,0,Acta Medica Lituanica,13920138
+Q2,0,Journal of Cardiovascular Surgery,00219509
+Q1,0,Birth Defects Research,24721727
+Q3,0,BMJ case reports,1757790X
+Q4,0,Acta Phlebologica,1593232X
+Q2,0,Frontiers in Public Health,22962565
+Q2,0,Journal of Health Management,09720634
+Q1,0,Journal of Thrombosis and Thrombolysis,09295305
+Q3,0,Progress in Neurology and Psychiatry,13677543
+Q2,0,Acta Medica Iranica,00446025
+Q3,0,"Pediatric Endocrinology, Diabetes and Metabolism",20838441
+Q2,0,Pediatric Rheumatology,15460096
+Q3,0,Advances in Respiratory Medicine,24514934
+Q4,0,Oxford Medical Case Reports,20538855
+Q3,0,Case Reports in Medicine,16879627
+Q3,0,BMJ Case Reports,1757790X
+Q4,0,Italian Journal of Anatomy and Embryology,11226714
+Q1,0,Journal of Clinical Medicine,20770383
+Q3,0,Journal of Personalized Medicine,20754426
