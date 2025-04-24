@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import scipy
-import re
 import os
 from io import StringIO
 import requests
@@ -126,11 +124,6 @@ def create_simulation_plot(simulation_history):
 
     return fig
 
-def generate_truncated_normal(size, mean, lower, upper, std_dev=1):
-          # Compute the truncated normal distribution parameters
-          a, b = (lower - mean) / std_dev, (upper - mean) / std_dev
-          return scipy.stats.truncnorm.rvs(a, b, loc=mean, scale=std_dev, size=size)
-
 def compute_citations_per_paper(publication_data_asjc, self_citation_fraction):
     """
     publication_data_asjc (pd dataframe) : publication data with asjc codes merged
@@ -184,11 +177,6 @@ def simulate_publications_and_citations(publication_data,
                                         PERC_TO_LOWER_Q2, Q4_TO_Q3_EQUIVALENT=2, 
                                         Q4_TO_Q2_EQUIVALENT=4, Q4_TO_Q1_EQUIVALENT=8,
                                         iters=1000, SELF_CITATION_FRACTION=0.37):
-    # pub_df = merge_publications_with_asjc(publication_data, asjc_data)
-
-    # pub_df = pub_df.loc[:, [
-    #     'journal_quartile', 'Citations', 'All Science Journal Classification Codes (ASJC)'
-    #     ]].copy()
     pub_df = publication_data.copy()
 
     # hyperparameter dictionaries
@@ -340,32 +328,7 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
         html.P("\nATJAUNINIET LAPU, LAI SIMULĒTU VĒLREIZ!")
     ])
 
-    # runs = np.arange(1, len(simulation_history))
-    # simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
-
-    # # Add hover text (inputs used for each simulation run)
-    # hover_text = [f"% Q4 removed: {run['q4_slider']}, % Q3 removed: {run['q3_slider']}, % Q2 removed: {run['q2_slider']}, "
-    #               f"Q4-Q3: {run['q4_q3']}, Q4-Q2: {run['q4_q2']}, Q4-Q1: {run['q4_q1']}, "
-    #               f"Self-Cite: {run['self_cite']}, Iters: {run['iters_input']}" for run in simulation_history]
-
-    # # Create the plot data
-    # plot_data = go.Scatter(
-    #     x=runs, 
-    #     y=simulated_CPP_history, 
-    #     mode="lines+markers", 
-    #     name="Final Papers",
-    #     text=hover_text,  # Set hover text to display the input values
-    #     hoverinfo="text"  # Only show the text when hovering
-    # )
     
-    # figure = {
-    #     "data": [plot_data],
-    #     "layout": go.Layout(
-    #         title="Simulāciju vēsture",
-    #         xaxis={"title": "Simulācijas #"},
-    #         yaxis={"title": "Citations per Paper"}
-    #     )
-    # }
     figure = create_simulation_plot(simulation_history)
 
     return result_text, figure
