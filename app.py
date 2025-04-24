@@ -193,6 +193,8 @@ def simulate_publications_and_citations(publication_data, asjc_data,
     pub_df = pub_df.loc[:, [
         'journal_quartile', 'Citations', 'All Science Journal Classification Codes (ASJC)'
         ]].copy()
+    
+    print(pub_df.head())
 
     # hyperparameter dictionaries
     equivalent_paper_dict={
