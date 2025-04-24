@@ -31,21 +31,20 @@ app = dash.Dash(__name__)
 server = app.server
 
 # initialise simulation history with the 2018-2022 values
-simulation_history = []
-# {
-#     "q4": 0,
-#     "q3": 0,
-#     "q2": 0,
-#     "q4_q3": None,
-#     "q4_q2": None,
-#     "q4_q1": None,
-#     "self_cite": 0.37,
-#     "iters_input": None,
-#     "final_papers": 788,
-#     "final_citations": 12871,
-#     "simulated_CPP": 8.2,
-#     "simulated_H": 27.3,
-# }]
+simulation_history = [{
+    "q4": 0,
+    "q3": 0,
+    "q2": 0,
+    "q4_q3": None,
+    "q4_q2": None,
+    "q4_q1": None,
+    "self_cite": 0.37,
+    "iters_input": None,
+    "final_papers": 788,
+    "final_citations": 12871,
+    "simulated_CPP": 8.2,
+    "simulated_H": 27.3,
+}]
 
 # DEFAULT PARAMETERS
 DEFAULT_ITERS = 100
