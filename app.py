@@ -273,7 +273,7 @@ def simulate_publications_and_citations(publication_data, asjc_data,
 
 @app.callback(
     [Output("output-results", "children"),
-    Output("simulation-plot", "figure")]
+    Output("simulation-plot", "figure")],
     Input("run-button", "n_clicks"),
     [
         State("q4-slider", "value"), 
