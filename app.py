@@ -75,7 +75,7 @@ app.layout = html.Div([
     html.Button("Simulēt rezultātus", id="run-button", n_clicks=0),
 
     html.H3("Rezultāti"),
-    html.Pre(id="output-results")  # Output display
+    html.Pre(id="output-results"),  # Output display
 
     dcc.Graph(id='simulation-plot')
 ])
