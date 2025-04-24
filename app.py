@@ -307,5 +307,5 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
     ])
 
 if __name__ == '__main__':
-     port = int(os.environ.get('PORT', 5000))
+     port = int(os.environ.get('PORT', 8080))
      app.run(debug=True, host='0.0.0.0', port=port)
