@@ -5,7 +5,7 @@ import re
 import os
 from io import StringIO
 import requests
-from plotly.graph_objects as go
+import plotly.graph_objects as go
 import dash
 from dash import dcc, html, Input, Output, State
 
