@@ -1,794 +1,790 @@
-journal_quartile,Citations,Source Title,ISSN
-Q1,588,Ultraschall in der Medizin,01724614
-Q1,284,BMC Public Health,14712458
-Q1,233,"Ultraschall in der Medizin (Stuttgart, Germany : 1980)",14388782
-Q1,192,EMBO Molecular Medicine,17574676
-Q1,185,Journal of Adolescent Health,1054139X
-Q1,179,Frontiers in Immunology,16643224
-Q1,174,Autoimmunity Reviews,15689972
-Q1,169,Frontiers in Microbiology,1664302X
-Q1,163,Journal of Headache and Pain,11292369
-Q1,135,Journal of Adolescent Health,1054139X
-Q1,126,Clinical Infectious Diseases,10584838
-Q1,125,"Scandinavian Journal of Work, Environment and Health",03553140
-Q1,125,European Journal of Pain (United Kingdom),10903801
-Q1,125,Human Reproduction,02681161
-Q1,120,Journal of Adolescent Health,1054139X
-Q1,113,New England Journal of Medicine,00284793
-Q1,108,Cells,20734409
-Q1,102,Diabetologia,0012186X
-Q1,93,Clinical Nutrition,02615614
-Q1,89,Cardiovascular Diabetology,14752840
-Q1,88,Arthritis Care and Research,2151464X
-Q1,85,Eye (Basingstoke),0950222X
-Q2,83,"Medicina (Kaunas, Lithuania)",16489144
-Q1,82,Journal of Headache and Pain,11292369
-Q1,78,Virchows Archiv,09456317
-Q1,67,European Heart Journal,0195668X
-Q1,67,Chest,00123692
-Q1,63,International Journal of Public Health,16618556
-Q1,61,European Respiratory Journal,09031936
-Q1,60,Survey of Ophthalmology,00396257
-Q1,59,Arthritis Research and Therapy,14786354
-Q2,58,Frontiers in Pediatrics,22962360
-Q1,57,Journal of Cystic Fibrosis,15691993
-Q1,56,Journal of Medical Virology,01466615
-Q2,53,Radiologia Medica,00338362
-Q1,53,PLoS Medicine,15491277
-Q2,53,Cancers,20726694
-Q2,53,"Clinical Lymphoma, Myeloma and Leukemia",21522650
-Q1,52,Virus Research,01681702
-Q2,52,Cancers,20726694
-Q3,51,BMJ Open Ophthalmology,23973269
-Q2,50,Medical Ultrasonography,18444172
-Q2,47,Biomedicines,22279059
-Q1,46,Cancers,20726694
-Q1,46,BMC Medical Informatics and Decision Making,14726947
-Q1,46,Microbiology Spectrum,21650497
-Q1,46,International Journal of Environmental Research and Public Health,16617827
-Q1,45,Annals of the Rheumatic Diseases,00034967
-Q1,44,European Psychiatry,09249338
-Q1,44,Pediatric Critical Care Medicine,15297535
-Q1,44,Modern Pathology,08933952
-Q2,43,Medicina (Lithuania),1010660X
-Q1,42,Current Alzheimer Research,15672050
-Q3,41,Microorganisms,20762607
-Q1,41,Military Medical Research,20957467
-Q1,41,Journal of Clinical Immunology,02719142
-Q1,40,Journal of Clinical Medicine,20770383
-Q1,40,Journal of Rheumatology,0315162X
-Q1,39,Acta Ophthalmologica,1755375X
-Q3,39,Genes,20734425
-Q2,36,Journal of Orthopaedic Surgery and Research,1749799X
-Q1,35,American Journal of Human Genetics,00029297
-Q2,34,Annals of General Psychiatry,1744859X
-Q3,34,Biochemistry (Moscow),00062979
-Q1,34,European Journal of Neurology,13515101
-Q1,34,Human Reproduction,02681161
-Q1,34,Ultrasound International Open,2509596X
-Q1,34,Europace,10995129
-Q1,34,Ultraschall in der Medizin,01724614
-Q1,33,Neurogastroenterology and Motility,13501925
-Q2,32,Pulmonary Circulation,20458932
-Q3,31,European Journal of Medical Genetics,17697212
-Q1,31,Arthritis Research and Therapy,14786354
-Q2,30,Frontiers in Pediatrics,22962360
-Q4,29,RoFo Fortschritte auf dem Gebiet der Rontgenstrahlen und der Bildgebenden Verfahren,14389029
-Q1,28,Journal of the European Academy of Dermatology and Venereology,09269959
-Q1,28,Multiple Sclerosis Journal,13524585
-Q2,27,International Journal of Environmental Research and Public Health,16617827
-Q1,27,Histopathology,03090167
-Q1,27,International Journal of Gynecological Cancer,1048891X
-Q1,27,Journal of Epidemiology and Community Health,0143005X
-Q1,27,Cancer Cytopathology,1934662X
-Q1,26,European Journal of Endocrinology,08044643
-Q4,26,Experimental Oncology,18129269
-Q1,26,Health Policy,01688510
-Q1,26,Journal of Cataract and Refractive Surgery,08863350
-Q2,25,Aging Male,13685538
-Q1,25,Insights into Imaging,18694101
-Q2,25,Medicina (Lithuania),1010660X
-Q1,25,Journal of Lower Genital Tract Disease,10892591
-Q1,24,Journal of Reproductive Immunology,01650378
-Q1,24,Current Medicinal Chemistry,09298673
-Q1,23,Frontiers in Microbiology,1664302X
-Q1,23,Clinical Infectious Diseases,10584838
-Q1,23,Cartilage,19476035
-Q1,23,Medicine and Science in Sports and Exercise,01959131
-Q2,23,Nordic Journal of Psychiatry,08039488
-Q2,22,Frontiers in Endocrinology,16642392
-Q2,22,BMJ Paediatrics Open,23999772
-Q3,22,BMC Gastroenterology,1471230X
-Q2,22,Medicina (Lithuania),1010660X
-Q2,22,Pathology Research and Practice,03440338
-Q2,22,Endocrine Journal,09188959
-Q1,22,European Child and Adolescent Psychiatry,10188827
-Q1,21,Vaccine,0264410X
-Q1,21,European Journal of Anaesthesiology,02650215
-Q1,21,Health Policy,01688510
-Q2,21,Human Vaccines and Immunotherapeutics,21645515
-Q2,21,Gynecological Endocrinology,09513590
-Q1,21,BMC Public Health,14712458
-Q2,21,Medicina (Lithuania),1010660X
-Q1,21,Epidemiology and Psychiatric Sciences,20457960
-Q2,20,Journal of Ophthalmology,2090004X
-Q2,20,Medical Ultrasonography,18444172
-Q2,20,Nordic Journal of Psychiatry,08039488
-Q1,20,Europace,10995129
-Q1,20,Biogerontology,13895729
-Q1,20,Acta Ophthalmologica,1755375X
-Q1,20,Molecules,14203049
-Q2,20,Journal of Ophthalmology,2090004X
-Q1,20,Pharmacopsychiatry,01763679
-Q1,20,Neuromodulation,10947159
-Q3,20,European Neurology,00143022
-Q1,19,Clinical and Experimental Immunology,00099104
-Q3,19,BMJ Paediatrics Open,23999772
-Q1,19,Psychology Research and Behavior Management,11791578
-Q2,18,Frontiers in Medicine,2296858X
-Q1,18,Cardiovascular Drugs and Therapy,09203206
-Q2,18,Acta Radiologica,02841851
-Q1,18,Annals of the Rheumatic Diseases,00034967
-Q1,18,Journal of Clinical Medicine,20770383
-Q2,18,Medicina (Lithuania),1010660X
-Q2,18,Medicina (Lithuania),1010660X
-Q2,17,International Clinical Psychopharmacology,02681315
-Q1,17,Frontiers in Immunology,16643224
-Q2,17,Infectious Agents and Cancer,17509378
-Q1,17,Pediatric Critical Care Medicine,15297535
-Q1,17,Survey of Ophthalmology,00396257
-Q2,17,Acta Anaesthesiologica Scandinavica,00015172
-Q1,17,Journal of Molecular Diagnostics,15251578
-Q4,17,The Lancet Regional Health - Southeast Asia,27723682
-Q1,17,International Breastfeeding Journal,17464358
-Q2,17,Medicina (Lithuania),1010660X
-Q3,17,Polish Journal of Pathology,12339687
-Q2,17,BMC Cancer,14712407
-Q2,17,Medicina (Lithuania),1010660X
-Q2,17,Pediatric Surgery International,01790358
-Q2,17,Medicina (Lithuania),1010660X
-Q1,17,Health Policy,01688510
-Q2,17,Viruses,19994915
-Q1,17,BMJ Open,20446055
-Q1,17,Clinical Infectious Diseases,10584838
-Q1,17,Virchows Archiv,09456317
-Q2,16,BMC Anesthesiology,14712253
-Q2,16,Journal of Ultrasound in Medicine,02784297
-Q1,16,Cornea,02773740
-Q2,16,Frontiers in Psychiatry,16640640
-Q1,16,Expert Review of Vaccines,14760584
-Q1,15,Journal of Affective Disorders,01650327
-Q2,15,Heart Lung and Circulation,14439506
-Q1,15,Antibiotics,20796382
-Q1,15,Journal of Primary Care and Community Health,21501319
-Q2,15,European Journal of Obstetrics and Gynecology and Reproductive Biology,03012115
-Q1,15,Shock,10732322
-Q1,15,International Journal of Environmental Research and Public Health,16617827
-Q1,15,European Journal of Anaesthesiology,02650215
-Q1,14,Orthodontics and Craniofacial Research,16016335
-Q3,14,Current Neurovascular Research,15672026
-Q2,14,Journal of Applied Physiology,87507587
-Q3,14,Biochemistry (Moscow),00062979
-Q3,14,BMC Medical Genomics,17558794
-Q2,14,Vaccines,2076393X
-Q1,14,Journal of Neurotrauma,08977151
-Q2,14,Geriatrics (Switzerland),23083417
-Q2,14,Frontiers in Medicine,2296858X
-Q2,14,Medicina (Lithuania),1010660X
-Q1,14,International Journal of Environmental Research and Public Health,16617827
-Q2,13,Frontiers in Pediatrics,22962360
-Q1,13,International Journal of Environmental Research and Public Health,16617827
-Q1,13,Health Policy,01688510
-Q1,13,Journal of the European Academy of Dermatology and Venereology,09269959
-Q2,13,Journal of Human Genetics,14345161
-Q1,13,Annals of General Psychiatry,1744859X
-Q1,13,Reproduction,14701626
-Q1,13,Journal of Diabetes Investigation,20401116
-Q2,13,Annals of Diagnostic Pathology,10929134
-Q1,13,Health systems in transition,18176127
-Q1,13,BMC Public Health,14712458
-Q1,12,European Journal of Vascular and Endovascular Surgery,10785884
-Q2,12,Medicina (Lithuania),1010660X
-Q1,12,The Lancet Regional Health - Europe,26667762
-Q1,12,Diabetic Medicine,07423071
-Q1,12,Neurobiology of Disease,09699961
-Q1,12,European Journal of Neurology,13515101
-Q1,12,Medical Principles and Practice,10117571
-Q2,11,Journal of medical case reports,17521947
-Q3,11,Hereditary Cancer in Clinical Practice,17312302
-Q2,11,BMC Pediatrics,14712431
-Q2,11,Biomedicines,22279059
-Q2,11,Scandinavian Journal of Primary Health Care,02813432
-Q1,11,International Journal of Environmental Research and Public Health,16617827
-Q2,11,Journal of Ophthalmology,2090004X
-Q4,11,Microorganisms,20762607
-Q2,11,Medicina (Lithuania),1010660X
-Q2,11,Frontiers in Psychiatry,16640640
-Q2,11,Medicina (Lithuania),1010660X
-Q2,11,Frontiers in Endocrinology,16642392
-Q2,11,Evidence-Based Mental Health,13620347
-Q1,11,Viruses,19994915
-Q1,11,Frontiers in Microbiology,1664302X
-Q1,11,World Journal of Emergency Surgery,17497922
-Q2,11,Medicina (Lithuania),1010660X
-Q2,11,Journal of Cellular and Molecular Medicine,15821838
-Q2,11,Cleft Palate-Craniofacial Journal,10556656
-Q1,11,Gastric Cancer,14363291
-Q2,11,Vaccines,2076393X
-Q1,11,International Journal of Neonatal Screening,2409515X
-Q2,11,Journal of Current Ophthalmology,24522325
-Q1,11,Ultraschall in der Medizin,01724614
-Q1,11,Europace,10995129
-Q1,11,Health Policy,01688510
-Q2,11,Medicina (Lithuania),1010660X
-Q1,11,Journal of Vascular Surgery,07415214
-Q3,11,Genes,20734425
-Q2,11,Cancers,20726694
-Q1,11,Archives of Disease in Childhood,00039888
-Q1,11,Behavioural Brain Research,01664328
-Q2,11,Journal of NeuroVirology,13550284
-Q4,11,Experimental Oncology,18129269
-Q2,11,Medicina (Lithuania),1010660X
-Q1,11,Viruses,19994915
-Q2,11,Pediatric Infectious Disease Journal,08913668
-Q3,11,International Journal of Pediatrics and Adolescent Medicine,23526467
-Q1,10,Health and Quality of Life Outcomes,14777525
-Q1,10,Molecular Neurobiology,08937648
-Q1,10,Ethnicity and Health,13557858
-Q1,10,"Infection, Genetics and Evolution",15671348
-Q1,10,Cardiovascular Diabetology,14752840
-Q4,10,OBM Neurobiology,25734407
-Q1,10,Journal of Vascular Surgery,07415214
-Q1,10,International Journal of Environmental Research and Public Health,16617827
-Q2,10,Frontiers in Psychiatry,16640640
-Q2,10,International Journal of Environmental Research and Public Health,16617827
-Q2,10,Journal of Intelligence,20793200
-Q2,10,Vector-Borne and Zoonotic Diseases,15303667
-Q1,10,Frontiers in Medicine,2296858X
-Q2,10,Frontiers in Psychiatry,16640640
-Q2,10,Scandinavian Journal of Gastroenterology,00365521
-Q1,10,Acta Ophthalmologica,1755375X
-Q1,10,Drug and Alcohol Dependence,03768716
-Q4,10,OBM Neurobiology,25734407
-Q1,10,Biochimica et Biophysica Acta - Reviews on Cancer,0304419X
-Q1,10,Journal of Refractive Surgery,1081597X
-Q2,10,Medicine (United States),00257974
-Q2,10,Cardiovascular Diagnosis and Therapy,22233652
-Q2,10,Journal of Inflammation Research,11787031
-Q2,10,Nordic Journal of Psychiatry,08039488
-Q2,9,Frontiers in Oncology,2234943X
-Q3,9,Frontiers in Genetics,16648021
-Q1,9,Frontiers in Microbiology,1664302X
-Q3,9,Hormones,11093099
-Q1,9,Archives of Gerontology and Geriatrics,01674943
-Q1,9,Frontiers in Aging Neuroscience,16634365
-Q2,9,Frontiers in Public Health,22962565
-Q2,9,International Urogynecology Journal,09373462
-Q2,9,Medical Ultrasonography,18444172
-Q1,9,Biochimica et Biophysica Acta - Molecular Basis of Disease,09254439
-Q1,9,Journal of the European Academy of Dermatology and Venereology,09269959
-Q1,9,Molecular Psychiatry,13594184
-Q2,9,Gynecological Endocrinology,09513590
-Q2,9,BMC Health Services Research,14726963
-Q2,9,European Journal of Gastroenterology and Hepatology,0954691X
-Q2,9,Medicina (Lithuania),1010660X
-Q1,9,Frontiers in Microbiology,1664302X
-Q2,9,Medicina (Lithuania),1010660X
-Q2,9,Medicina (Lithuania),1010660X
-Q2,9,Leukemia Research,01452126
-Q2,9,Microsurgery,07381085
-Q1,9,Pediatric Nephrology,0931041X
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,BMJ Simulation and Technology Enhanced Learning,20566697
-Q2,8,Urologia Internationalis,00421138
-Q3,8,Genes,20734425
-Q4,8,Experimental Oncology,18129269
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,Health Science Reports,23988835
-Q1,8,Primary Care Diabetes,17519918
-Q3,8,"Immunity, Inflammation and Disease",20504527
-Q1,8,Cancers,20726694
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,Biotechnic and Histochemistry,10520295
-Q2,8,Annals of Diagnostic Pathology,10929134
-Q2,8,International Clinical Psychopharmacology,02681315
-Q2,8,Healthcare (Switzerland),22279032
-Q2,8,International Journal of Environmental Research and Public Health,16617827
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,BMC Pediatrics,14712431
-Q2,8,Medicina (Lithuania),1010660X
-Q1,8,Medicine (United States),00257974
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,Medicina (Lithuania),1010660X
-Q2,8,Cancers,20726694
-Q2,7,Journal of Immunology Research,23148861
-Q3,7,Journal of Healthcare Engineering,20402295
-Q3,7,Clinical Nutrition ESPEN,24054577
-Q3,7,European Journal of Medical Genetics,17697212
-Q1,7,Health and Quality of Life Outcomes,14777525
-Q2,7,Healthcare (Switzerland),22279032
-Q3,7,General Dentistry,03636771
-Q2,7,Genes,20734425
-Q1,7,Contraception,00107824
-Q2,7,Medicina (Lithuania),1010660X
-Q1,7,Journal of Clinical Medicine,20770383
-Q2,7,International Ophthalmology,01655701
-Q1,7,Infectious Diseases in Obstetrics and Gynecology,10647449
-Q2,7,Urology,00904295
-Q2,7,Cancers,20726694
-Q2,7,Electronic Journal of General Medicine,25163507
-Q1,7,Molecules,14203049
-Q1,7,Gastroenterology,00165085
-Q2,7,Medicina (Lithuania),1010660X
-Q3,7,Infectious Disease Reports,20367449
-Q2,7,Journal of Cancer Research and Clinical Oncology,01715216
-Q1,7,Journal of the European Academy of Dermatology and Venereology,09269959
-Q2,6,Vaccines,2076393X
-Q1,6,Respiratory Research,14659921
-Q2,6,Open Heart,2398595X
-Q2,6,Simulation in Healthcare,15592332
-Q3,6,Children,22279067
-Q2,6,Antibiotics,20796382
-Q3,6,Children,22279067
-Q1,6,Viruses,19994915
-Q1,6,BMJ Open,20446055
-Q1,6,Journal of Clinical Medicine,20770383
-Q3,6,Avant,20826710
-Q1,6,International Journal of Environmental Research and Public Health,16617827
-Q2,6,Medicina (Lithuania),1010660X
-Q2,6,Journal of Pharmaceutical Policy and Practice,20523211
-Q2,6,Rural and Remote Health,14456354
-Q1,6,Updates in Surgery,2038131X
-Q2,6,Vector-Borne and Zoonotic Diseases,15303667
-Q3,6,Monash bioethics review,18366716
-Q2,6,Medicina (Lithuania),1010660X
-Q4,6,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
-Q2,6,International Journal of Dermatology,00119059
-Q1,6,Pediatric Infectious Disease Journal,08913668
-Q1,6,Journal of Clinical Medicine,20770383
-Q2,6,Brain and Behavior,21623279
-Q1,6,Frontiers in Medicine,2296858X
-Q2,5,Journal of Hand Surgery: European Volume,17531934
-Q2,5,Frontiers in Endocrinology,16642392
-Q2,5,Frontiers in Neurology,16642295
-Q2,5,Immunology Letters,01652478
-Q2,5,Biomedicines,22279059
-Q3,5,Polish Journal of Veterinary Sciences,15051773
-Q2,5,Frontiers in Neurology,16642295
-Q2,5,IISE Transactions on Occupational Ergonomics and Human Factors,24725838
-Q2,5,Medicina (Lithuania),1010660X
-Q3,5,Techniques in Hand and Upper Extremity Surgery,10893393
-Q1,5,LGBT Health,23258292
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Brain and Behavior,21623279
-Q2,5,Medicina (Lithuania),1010660X
-Q1,5,Wiener Klinische Wochenschrift,00435325
-Q1,5,Journal of Clinical Virology,13866532
-Q4,5,Studies in Health Technology and Informatics,09269630
-Q2,5,Journal of Back and Musculoskeletal Rehabilitation,10538127
-Q2,5,"Medicina (Kaunas, Lithuania)",16489144
-Q2,5,BMC Pediatrics,14712431
-Q4,5,Clinical and Experimental Obstetrics and Gynecology,03906663
-Q2,5,Experimental and Clinical Endocrinology and Diabetes,09477349
-Q3,5,Global Pediatric Health,2333794X
-Q2,5,BMJ Simulation and Technology Enhanced Learning,20566697
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,International Angiology,03929590
-Q1,5,International Review of Psychiatry,09540261
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Growth Hormone and IGF Research,10966374
-Q3,5,Brain Sciences,20763425
-Q3,5,Journal of Cardiothoracic Surgery,17498090
-Q1,5,Frontiers in Microbiology,1664302X
-Q3,5,Hereditary Cancer in Clinical Practice,17312302
-Q2,5,Biomedical Reports,20499434
-Q1,5,Arthritis Care and Research,2151464X
-Q1,5,Viruses,19994915
-Q1,5,BMJ Open Sport and Exercise Medicine,20557647
-Q1,5,RMD Open,20565933
-Q1,5,European Journal of Pediatrics,03406199
-Q3,5,Expert Review of Ophthalmology,17469899
-Q1,5,Acta Oncologica,0284186X
-Q1,5,Disability and Rehabilitation,09638288
-Q3,5,Brain Sciences,20763425
-Q1,5,Health Research Policy and Systems,14784505
-Q3,5,European Journal of Plastic Surgery,0930343X
-Q1,5,Asia-Pacific Journal of Ophthalmology,21620989
-Q1,5,International Journal of Gynecology and Obstetrics,00207292
-Q1,5,Health Policy,01688510
-Q2,5,Annals of Transplantation,14259524
-Q1,5,Journal of Cataract and Refractive Surgery,08863350
-Q2,5,Epilepsy and Behavior,15255050
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Medicina (Lithuania),1010660X
-Q4,5,Cor et Vasa,00108650
-Q2,5,Urology,00904295
-Q2,5,BMC Cancer,14712407
-Q2,5,Biomedicines,22279059
-Q3,5,Children,22279067
-Q2,5,European Journal of Ophthalmology,11206721
-Q3,5,Neurology International,20358385
-Q2,5,Stomatologija,13928589
-Q1,5,International Journal of Gynecology and Obstetrics,00207292
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,International Journal of Environmental Research and Public Health,16617827
-Q2,5,Medicina (Lithuania),1010660X
-Q1,5,Genes and Diseases,23524820
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Frontiers in Genetics,16648021
-Q3,5,Strategies in Trauma and Limb Reconstruction,18288936
-Q1,5,Journal of Assisted Reproduction and Genetics,10580468
-Q2,5,Medicina (Lithuania),1010660X
-Q1,5,International Journal of Gynecology and Obstetrics,00207292
-Q1,5,BMJ Open,20446055
-Q2,5,Nordic Journal of Psychiatry,08039488
-Q2,5,Biomedicines,22279059
-Q2,5,Journal of Medical Biochemistry,14528258
-Q1,5,Europace,10995129
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Viruses,19994915
-Q1,5,International Journal of Environmental Research and Public Health,16617827
-Q2,5,Medicina (Lithuania),1010660X
-Q2,5,Frontiers in Neurology,16642295
-Q2,5,International Journal of Environmental Research and Public Health,16617827
-Q2,5,Journal of Nutrition and Metabolism,20900724
-Q1,5,Eurosurveillance,1025496X
-Q2,5,Journal of Ophthalmology,2090004X
-Q1,5,International Journal of Environmental Research and Public Health,16617827
-Q3,5,Microorganisms,20762607
-Q1,4,BMJ Open,20446055
-Q2,4,Medicina (Lithuania),1010660X
-Q1,4,Viruses,19994915
-Q2,4,Trials,17456215
-Q1,4,Journal of Clinical Medicine,20770383
-Q1,4,Bulletin of the World Health Organization,00429686
-Q2,4,Annals of Diagnostic Pathology,10929134
-Q3,4,Brain and Behavior,21623279
-Q2,4,BMC Pediatrics,14712431
-Q2,4,Medicina (Lithuania),1010660X
-Q2,4,Neurology: Genetics,23767839
-Q1,4,The Lancet Regional Health - Europe,26667762
-Q1,4,International Journal of Environmental Research and Public Health,16617827
-Q1,4,Upsala Journal of Medical Sciences,03009734
-Q2,4,Frontiers in Endocrinology,16642392
-Q2,4,Journal of Musculoskeletal Neuronal Interactions,11087161
-Q2,4,Frontiers in Public Health,22962565
-Q2,4,Medicina (Lithuania),1010660X
-Q3,4,"American Journal of Medical Genetics, Part A",15524825
-Q2,4,Journal of Human Hypertension,09509240
-Q2,4,Medicina (Lithuania),1010660X
-Q4,4,Voprosy Prakticheskoi Pediatrii,18177646
-Q4,4,The journal of hand surgery Asian-Pacific volume,24248363
-Q2,4,Medicina (Lithuania),1010660X
-Q2,4,Frontiers in Oncology,2234943X
-Q1,4,Disability and Rehabilitation,09638288
-Q2,4,Asian Pacific Journal of Cancer Prevention,15137368
-Q2,4,Annals of Diagnostic Pathology,10929134
-Q4,4,Journal of Ultrasonography,20848404
-Q2,4,European Journal of Contraception and Reproductive Health Care,13625187
-Q1,4,European Journal of General Practice,13814788
-Q2,4,Medicina (Lithuania),1010660X
-Q1,4,Vaccines,2076393X
-Q1,4,Human Mutation,10597794
-Q1,4,Antibiotics,20796382
-Q3,4,Techniques in Hand and Upper Extremity Surgery,10893393
-Q1,4,United European gastroenterology journal,20506414
-Q1,4,International Journal of Public Health,16618556
-Q1,4,Archives of Disease in Childhood,00039888
-Q2,3,Biomedicines,22279059
-Q2,3,Permanente Journal,15525767
-Q2,3,IEEE International Conference on Rehabilitation Robotics,19457898
-Q3,3,European Journal of Health Law,09290273
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Biomedicines,22279059
-Q4,3,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-Q2,3,Human Vaccines and Immunotherapeutics,21645515
-Q2,3,Acta Naturae,20758251
-Q2,3,Medicina (Lithuania),1010660X
-Q1,3,Journal of Antimicrobial Chemotherapy,03057453
-Q2,3,Systems Biology in Reproductive Medicine,19396368
-Q4,3,Activitas Nervosa Superior Rediviva,1337933X
-Q2,3,Healthcare (Switzerland),22279032
-Q2,3,Cancers,20726694
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,BMC Musculoskeletal Disorders,14712474
-Q1,3,Cornea,02773740
-Q3,3,International Journal of Surgical Pathology,10668969
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Journal of Diabetes and its Complications,10568727
-Q3,3,Stomatologija,1822301X
-Q1,3,Journal of Cataract and Refractive Surgery,08863350
-Q3,3,Romanian Journal of Morphology and Embryology,12200522
-Q3,3,Advances in Respiratory Medicine,24514934
-Q2,3,Frontiers in Psychiatry,16640640
-Q3,3,Current Rheumatology Reviews,15733971
-Q2,3,AIDS,02699370
-Q1,3,European Journal of Pediatrics,03406199
-Q2,3,Medicina (Lithuania),1010660X
-Q3,3,American Journal of Case Reports,19415923
-Q2,3,Microbiology Spectrum,21650497
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Healthcare (Switzerland),22279032
-Q1,3,Journal of Cranio-Maxillofacial Surgery,10105182
-Q2,3,BMC Pediatrics,14712431
-Q3,3,International Journal of Pharmaceutical Compounding,10924221
-Q2,3,Biomedicines,22279059
-Q1,3,European Journal of Pediatric Surgery,09397248
-Q2,3,Frontiers in Endocrinology,16642392
-Q1,3,International Journal of Environmental Research and Public Health,16617827
-Q2,3,Health Psychology and Behavioral Medicine,21642850
-Q3,3,Brain Sciences,20763425
-Q1,3,Cosmetics,20799284
-Q3,3,Experimental Oncology,18129269
-Q1,3,Nordic Journal of Music Therapy,08098131
-Q1,3,Journal of Clinical Medicine,20770383
-Q1,3,European Archives of Psychiatry and Clinical Neuroscience,09401334
-Q2,3,Medicina (Lithuania),1010660X
-Q3,3,Brain Sciences,20763425
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Nordic Journal of Psychiatry,08039488
-Q2,3,Breathe,18106838
-Q2,3,Medicina (Lithuania),1010660X
-Q1,3,Patient Education and Counseling,07383991
-Q2,3,Medicine and Pharmacy Reports,26020807
-Q3,3,American Journal of Case Reports,19415923
-Q1,3,"Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology",22124403
-Q2,3,Medicina (Lithuania),1010660X
-Q2,3,Medicina (Lithuania),1010660X
-Q1,3,Annals of Surgical Oncology,10689265
-Q3,3,Hereditary Cancer in Clinical Practice,17312302
-Q2,3,Tuberculosis,14729792
-Q1,3,Cosmetics,20799284
-Q2,3,Pediatric Hematology and Oncology,08880018
-Q2,3,Genes,20734425
-Q1,3,International Journal of Women's Health,11791411
-Q1,3,International Journal of Environmental Research and Public Health,16617827
-Q4,2,HIV and AIDS Review,17301270
-Q1,2,Journal of Clinical Medicine,20770383
-Q3,2,American Journal of Case Reports,19415923
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,Medicina (Lithuania),1010660X
-Q1,2,Journal of Histochemistry and Cytochemistry,00221554
-Q2,2,BMC Infectious Diseases,14712334
-Q2,2,Physical Activity Review,23005076
-Q2,2,Pathogens,20760817
-Q3,2,Case Reports in Ophthalmology,16632699
-Q2,2,American Journal of Case Reports,19415923
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,Biomedicines,22279059
-Q3,2,Neurology Psychiatry and Brain Research,09419500
-Q2,2,International Journal of Environmental Research and Public Health,16617827
-Q4,2,Cor et Vasa,00108650
-Q3,2,Polish Journal of Pathology,12339687
-Q4,2,"Molecular Genetics, Microbiology and Virology",08914168
-Q1,2,"Medicine, Health Care and Philosophy",13867423
-Q2,2,Medicina (Lithuania),1010660X
-Q1,2,BMC Cancer,14712407
-Q3,2,Journal of Surgical Case Reports,20428812
-Q3,2,Clinical Medicine Insights: Arthritis and Musculoskeletal Disorders,11795441
-Q1,2,Psychology Research and Behavior Management,11791578
-Q3,2,Journal of Obstetrics and Gynaecology Research,13418076
-Q2,2,Medicina (Lithuania),1010660X
-Q4,2,Cor et Vasa,00108650
-Q2,2,Medicina (Lithuania),1010660X
-Q3,2,Stomatologija,1822301X
-Q3,2,Techniques in Hand and Upper Extremity Surgery,10893393
-Q2,2,Medicina (Lithuania),1010660X
-Q1,2,International Journal of Health Policy and Management,23225939
-Q2,2,Medicina (Lithuania),1010660X
-Q1,2,Therapeutic Advances in Respiratory Disease,17534658
-Q2,2,European Journal of Ophthalmology,11206721
-Q2,2,Medicina (Lithuania),1010660X
-Q3,2,Open Dermatology Journal,18743722
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,European Journal of Ophthalmology,11206721
-Q2,2,Medicina (Lithuania),1010660X
-Q2,2,Folia Morphologica (Poland),00155659
-Q1,2,Journal of Clinical Medicine,20770383
-Q3,2,Pediatric Neurosurgery,10162291
-Q1,2,International Journal of Women's Health,11791411
-Q2,2,Hepatitis Monthly,1735143X
-Q2,2,Medicina (Lithuania),1010660X
-Q4,2,Balkan Journal of Medical Genetics,13110160
-Q3,2,Journal of Medical Biochemistry,14528258
-Q1,2,Journal of Clinical Medicine,20770383
-Q3,2,Clinical Case Reports,20500904
-Q3,2,American Journal of Case Reports,19415923
-Q2,2,Psychiatria Danubina,03535053
-Q2,2,International Journal of Environmental Research and Public Health,16617827
-Q1,2,Cell and Tissue Research,0302766X
-Q1,2,Europace,10995129
-Q4,2,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-Q4,1,SAGE Open Medical Case Reports,2050313X
-Q3,1,Children,22279067
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,Frontiers in Medicine,2296858X
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,Nordic Journal of Psychiatry,08039488
-Q2,1,Genes,20734425
-Q4,1,OBM Neurobiology,25734407
-Q3,1,Vaccines,2076393X
-Q1,1,Current Eye Research,02713683
-Q3,1,Archivos de la Sociedad Espanola de Oftalmologia,03656691
-Q3,1,Experimental Oncology,18129269
-Q4,1,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-Q1,1,Cosmetics,20799284
-Q3,1,Hereditary Cancer in Clinical Practice,17312302
-Q1,1,Gait and Posture,09666362
-Q4,1,European Heart Journal - Case Reports,25142119
-Q3,1,Stomatologija,13928589
-Q2,1,Frontiers in Pediatrics,22962360
-Q3,1,Central European Journal of Urology,20804806
-Q2,1,Anesthesiology and Pain Medicine,22287523
-Q2,1,Nordic Journal of Psychiatry,08039488
-Q3,1,Cleft Palate-Craniofacial Journal,10556656
-Q1,1,European Journal of Neurology,13515101
-Q2,1,Medicina (Lithuania),1010660X
-Q3,1,Experimental Oncology,18129269
-Q1,1,International Journal of Environmental Research and Public Health,16617827
-Q3,1,American Journal of Case Reports,19415923
-Q1,1,Journal of Clinical Medicine,20770383
-Q2,1,Ethics and Bioethics (in Central Europe),13385615
-Q2,1,Neurology: Genetics,23767839
-Q3,1,Brain Sciences,20763425
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,The American journal of case reports,19415923
-Q2,1,"Clinical, Cosmetic and Investigational Dermatology",11787015
-Q3,1,Pharmacogenomics and Personalized Medicine,11787066
-Q3,1,Case Reports in Ophthalmology,16632699
-Q4,1,Activitas Nervosa Superior Rediviva,1337933X
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,European Journal of Contraception and Reproductive Health Care,13625187
-Q3,1,Hereditary Cancer in Clinical Practice,17312302
-Q2,1,Neurologia i Neurochirurgia Polska,00283843
-Q3,1,BMC Endocrine Disorders,14726823
-Q1,1,United European gastroenterology journal,20506414
-Q1,1,Journal of Hypertension,02636352
-Q3,1,Microorganisms,20762607
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,Medicina (Lithuania),1010660X
-Q2,1,Frontiers in Oncology,2234943X
-Q1,1,PeerJ,21678359
-Q4,1,Acta Chirurgiae Orthopaedicae et Traumatologiae Cechoslovaca,00015415
-Q3,1,Central European Journal of Urology,20804806
-Q3,1,Baylor University Medical Center Proceedings,08998280
-Q3,1,Anais Brasileiros de Dermatologia,03650596
-Q2,1,Primary Care Diabetes,17519918
-Q4,1,Case Reports in Oncology,16626575
-Q2,1,Histology and Histopathology,02133911
-Q1,1,BMC Public Health,14712458
-Q3,1,Wspolczesna Onkologia,14282526
-Q1,1,United European Gastroenterology Journal,20506406
-Q2,1,"Allergy, Asthma and Clinical Immunology",17101484
-Q1,1,International Journal of Environmental Research and Public Health,16617827
-Q3,1,Hereditary Cancer in Clinical Practice,17312302
-Q2,1,Gynecological Endocrinology,09513590
-Q4,0,Acta Medica Lituanica,13920138
-Q4,0,Cor et Vasa,00108650
-Q3,0,International Journal of Reproductive BioMedicine,24764108
-Q3,0,Current Rheumatology Reviews,15733971
-Q2,0,Dental press journal of orthodontics,21776709
-Q1,0,Vaccine: X,25901362
-Q2,0,Frontiers in Pediatrics,22962360
-Q3,0,Children,22279067
-Q3,0,Brain Sciences,20763425
-Q2,0,Medicina (Lithuania),1010660X
-Q2,0,Stomatologija,13928589
-Q4,0,Italian Journal of Anatomy and Embryology,11226714
-Q2,0,Journal of Personalized Medicine,20754426
-Q3,0,Progress in Biomedical Optics and Imaging - Proceedings of SPIE,16057422
-Q2,0,Primary Health Care Research and Development,14634236
-Q1,0,Journal of Rehabilitation Medicine,16501977
-Q4,0,Radiology Case Reports,19300433
-Q1,0,Journal of Adolescent Health,1054139X
-Q2,0,Frontiers in Medicine,2296858X
-Q3,0,Case Reports in Medicine,16879627
-Q3,0,JMIR Formative Research,2561326X
-Q3,0,International Journal of Pharmaceutical Compounding,10924221
-Q2,0,Israel Medical Association Journal,15651088
-Q2,0,Frontiers in Psychiatry,16640640
-Q3,0,American Journal of Case Reports,19415923
-Q1,0,European Journal of Physical and Rehabilitation Medicine,19739087
-Q3,0,Case Reports in Dermatology,16626567
-Q3,0,Journal of Interventional Cardiology,08964327
-Q3,0,American Journal of Case Reports,19415923
-Q3,0,Stomatologija,13928589
-Q2,0,Medicina (Lithuania),1010660X
-Q3,0,American Journal of Case Reports,19415923
-Q1,0,Journal of Clinical Medicine,20770383
-Q3,0,Transplantation Proceedings,00411345
-Q1,0,Current Atherosclerosis Reports,15233804
-Q3,0,Journal of Vascular Surgery Cases and Innovative Techniques,24684287
-Q4,0,Journal of Pediatric Surgery Case Reports,22135766
-Q1,0,Frontiers in Medicine,2296858X
-Q3,0,ERS Monograph,2312508X
-Q4,0,"Wiadomosci lekarskie (Warsaw, Poland : 1960)",00435147
-Q3,0,Molekuliarnaia biologiia,00268984
-Q3,0,Molekuliarnaia biologiia,00268984
-Q2,0,BMC Health Services Research,14726963
-Q2,0,Nordic Journal of Psychiatry,08039488
-Q2,0,Infectious Agents and Cancer,17509378
-Q4,0,Case Reports in Neurology,1662680X
-Q4,0,Cor et Vasa,00108650
-Q3,0,Central European Journal of Immunology,14263912
-Q1,0,Applied Immunohistochemistry and Molecular Morphology,15412016
-Q2,0,Medicina (Lithuania),1010660X
-Q3,0,Pharmacogenomics,14622416
-Q3,0,Iranian Journal of Otorhinolaryngology,22517251
-Q3,0,Pathogens,20760817
-Q1,0,World Journal of Surgery,03642313
-Q1,0,Frontiers in Medicine,2296858X
-Q2,0,European Journal of Contraception and Reproductive Health Care,13625187
-Q2,0,Histology and Histopathology,02133911
-Q2,0,Dermatologic Therapy,13960296
-Q2,0,Archives of Public Health,07787367
-Q3,0,Journal of Medical Case Reports,17521947
-Q4,0,Archivos de la Sociedad Espanola de Oftalmologia,03656691
-Q2,0,Prosthetics and Orthotics International,03093646
-Q4,0,Cor et Vasa,00108650
-Q4,0,Activitas Nervosa Superior Rediviva,1337933X
-Q1,0,Archives of Medical Science,17341922
-Q4,0,Information Psychiatrique,00200204
-Q3,0,International Journal of Pharmaceutical Compounding,10924221
-Q2,0,Frontiers in Endocrinology,16642392
-Q3,0,Children,22279067
-Q2,0,Asian Pacific Journal of Reproduction,23050500
-Q3,0,BMJ case reports,1757790X
-Q2,0,European Journal of Health Law,09290273
-Q4,0,"Romanian Journal of Diabetes, Nutrition and Metabolic Diseases",15838609
-Q3,0,"Acta Dermatovenerologica Alpina, Pannonica et Adriatica",13184458
-Q4,0,Cor et Vasa,00108650
-Q4,0,International Journal of Morphology,07179367
-Q3,0,Anatolian Journal of Cardiology,21492263
-Q2,0,Frontiers in Psychiatry,16640640
-Q2,0,Frontiers in Pediatrics,22962360
-Q3,0,Acta Medica Lituanica,13920138
-Q4,0,Cor et Vasa,00108650
-Q3,0,Techniques in Hand and Upper Extremity Surgery,10893393
-Q3,0,Cytology and Genetics,00954527
-Q2,0,Journal of Functional Morphology and Kinesiology,24115142
-Q3,0,American Journal of Case Reports,19415923
-Q2,0,Endocrine Connections,20493614
-Q2,0,BMC Ophthalmology,14712415
-Q2,0,Oncology Letters,17921074
-Q3,0,Arquivos Brasileiros de Oftalmologia,00042749
-Q1,0,BMC Primary Care,27314553
-Q4,0,Clinical and Experimental Obstetrics and Gynecology,03906663
-Q4,0,Information Psychiatrique,00200204
-Q4,0,Problemy Radiatsiinoi Medytsyny ta Radiobiolohii,23048336
-Q2,0,Nordic Journal of Psychiatry,08039488
-Q3,0,American Journal of Case Reports,19415923
-Q4,0,Tsitologiya,00413771
-Q1,0,Archives of Medical Science,17341922
-Q4,0,Gynakologie,27317102
-Q2,0,Frontiers in Public Health,22962565
-Q4,0,Chirurgia (Turin),03949508
-Q3,0,Annals of Medicine and Surgery,20490801
-Q1,0,International Journal of Infectious Diseases,12019712
-Q2,0,Medicina (Lithuania),1010660X
-Q4,0,Journal of Clinical and Translational Endocrinology: Case Reports,22146245
-Q4,0,Open Neurology Journal,1874205X
-Q2,0,Medicina (Lithuania),1010660X
-Q3,0,Acta Medica Lituanica,13920138
-Q2,0,Journal of Cardiovascular Surgery,00219509
-Q1,0,Birth Defects Research,24721727
-Q3,0,BMJ case reports,1757790X
-Q4,0,Acta Phlebologica,1593232X
-Q2,0,Frontiers in Public Health,22962565
-Q2,0,Journal of Health Management,09720634
-Q1,0,Journal of Thrombosis and Thrombolysis,09295305
-Q3,0,Progress in Neurology and Psychiatry,13677543
-Q2,0,Acta Medica Iranica,00446025
-Q3,0,"Pediatric Endocrinology, Diabetes and Metabolism",20838441
-Q2,0,Pediatric Rheumatology,15460096
-Q3,0,Advances in Respiratory Medicine,24514934
-Q4,0,Oxford Medical Case Reports,20538855
-Q3,0,Case Reports in Medicine,16879627
-Q3,0,BMJ Case Reports,1757790X
-Q4,0,Italian Journal of Anatomy and Embryology,11226714
-Q1,0,Journal of Clinical Medicine,20770383
-Q3,0,Journal of Personalized Medicine,20754426
+journal_quartile,Citations,All Science Journal Classification Codes (ASJC)
+Q1,588,['2741']
+Q1,284,['2739']
+Q1,233,['2741']
+Q1,192,['1313']
+Q1,185,"['2739', '2738', '2735']"
+Q1,179,"['2403', '2723']"
+Q1,174,"['2403', '2723']"
+Q1,169,"['2726', '2404']"
+Q1,163,"['2728', '2703']"
+Q1,135,"['2739', '2738', '2735']"
+Q1,126,"['2725', '2726']"
+Q1,125,['2739']
+Q1,125,['2703']
+Q1,125,"['2729', '2743']"
+Q1,120,"['2739', '2738', '2735']"
+Q1,113,['2700']
+Q1,108,['1300']
+Q1,102,"['2724', '2712']"
+Q1,93,"['2706', '2916']"
+Q1,89,"['2705', '2724', '2712']"
+Q1,88,['2745']
+Q1,85,"['2809', '2731']"
+Q1,82,"['2728', '2703']"
+Q1,78,"['1312', '1307', '2734']"
+Q1,67,['2705']
+Q1,67,"['2740', '2705', '2706']"
+Q1,63,['2739']
+Q1,61,['2740']
+Q1,60,['2731']
+Q1,59,"['2745', '2403', '2723']"
+Q2,58,['2735']
+Q1,57,"['2735', '2740']"
+Q1,56,"['2725', '2406']"
+Q2,53,['2741']
+Q1,53,['2700']
+Q2,53,"['1306', '2730']"
+Q2,53,"['2720', '2730', '1306']"
+Q1,52,"['2406', '1306', '2725']"
+Q2,52,"['1306', '2730']"
+Q3,51,['2731']
+Q2,50,"['3102', '2741', '3614']"
+Q2,47,"['1300', '2701']"
+Q1,46,"['1306', '2730']"
+Q1,46,"['1706', '2719', '2718']"
+Q1,46,"['2303', '2726', '2725', '2400', '1307', '1311', '1314']"
+Q1,46,"['2307', '2739', '2310']"
+Q1,45,"['2403', '2745', '2723', '1300']"
+Q1,44,['2738']
+Q1,44,"['2735', '2706']"
+Q1,44,['2734']
+Q2,43,['2700']
+Q1,42,"['2728', '2808']"
+Q3,41,"['2406', '2726', '2404']"
+Q1,41,['2700']
+Q1,41,"['2403', '2723']"
+Q1,40,['2700']
+Q1,40,"['2723', '2403', '2745']"
+Q1,39,['2731']
+Q1,39,['2731']
+Q3,39,"['2716', '1311']"
+Q2,36,"['2732', '2746']"
+Q1,35,"['1311', '2716']"
+Q2,34,['2738']
+Q3,34,"['1301', '1304', '2717', '1303']"
+Q1,34,"['2808', '2728']"
+Q1,34,"['2729', '2743']"
+Q1,34,['2741']
+Q1,34,"['2737', '2705']"
+Q1,34,['2741']
+Q1,33,"['1314', '2715', '2807']"
+Q2,32,['2740']
+Q3,31,"['2716', '1311']"
+Q1,31,"['2745', '2403', '2723']"
+Q2,30,['2735']
+Q4,29,['2741']
+Q1,28,"['2708', '2725']"
+Q1,28,"['2728', '2808']"
+Q2,27,"['2307', '2739', '2310']"
+Q1,27,"['2722', '2734']"
+Q1,27,"['2730', '2729']"
+Q1,27,"['2713', '2739']"
+Q1,27,"['2730', '1306']"
+Q1,26,"['2712', '1310']"
+Q4,26,"['2730', '1306']"
+Q1,26,['2719']
+Q1,26,"['2746', '2809', '2731']"
+Q2,25,['2717']
+Q1,25,['2741']
+Q2,25,['2700']
+Q1,25,['2729']
+Q1,24,"['2729', '2723', '2403', '2743']"
+Q1,24,"['1303', '3002', '1313', '3004', '1605']"
+Q1,23,"['2726', '2404']"
+Q1,23,"['2725', '2726']"
+Q1,23,"['3612', '2204', '2723']"
+Q1,23,"['2732', '3612']"
+Q2,23,['2738']
+Q2,22,['2712']
+Q2,22,['2735']
+Q3,22,['2715']
+Q2,22,['2700']
+Q2,22,"['2734', '1307']"
+Q2,22,"['2712', '1310']"
+Q1,22,"['3204', '2735', '2738']"
+Q1,21,"['2739', '1313', '2400', '3400', '2725']"
+Q1,21,['2703']
+Q1,21,['2719']
+Q2,21,"['3004', '2403', '2723']"
+Q2,21,"['2729', '2712', '1310']"
+Q1,21,['2739']
+Q2,21,['2700']
+Q1,21,"['2738', '2739', '2713']"
+Q2,20,['2731']
+Q2,20,"['3102', '2741', '3614']"
+Q2,20,['2738']
+Q1,20,"['2737', '2705']"
+Q1,20,"['2717', '1302', '2909']"
+Q1,20,['2731']
+Q1,20,['2731']
+Q1,20,"['3003', '3002', '1313', '1606', '1602', '1601', '1605']"
+Q2,20,['2731']
+Q1,20,"['2736', '2738']"
+Q1,20,"['2728', '2808', '2703']"
+Q3,20,"['2728', '2808']"
+Q1,19,"['2723', '2403']"
+Q3,19,['2735']
+Q1,19,"['3200', '2738']"
+Q2,18,['2700']
+Q1,18,"['2736', '2705', '3004']"
+Q2,18,"['3614', '2741']"
+Q1,18,"['2403', '2745', '2723', '1300']"
+Q1,18,['2700']
+Q2,18,['2700']
+Q2,18,['2700']
+Q2,17,"['2736', '2738']"
+Q1,17,"['2403', '2723']"
+Q2,17,"['2730', '2725', '2713', '1306']"
+Q1,17,"['2735', '2706']"
+Q1,17,['2731']
+Q2,17,['2703']
+Q1,17,"['1313', '2734']"
+Q4,17,"['2739', '2738', '2725']"
+Q1,17,"['2735', '2729']"
+Q2,17,['2700']
+Q3,17,['2734']
+Q2,17,"['1311', '2730', '1306']"
+Q2,17,['2700']
+Q2,17,"['2735', '2746']"
+Q2,17,['2700']
+Q1,17,['2719']
+Q2,17,"['2725', '2406']"
+Q1,17,['2700']
+Q1,17,"['2725', '2726']"
+Q1,17,"['1312', '1307', '2734']"
+Q2,16,['2703']
+Q2,16,"['2741', '3614']"
+Q1,16,['2731']
+Q2,16,['2738']
+Q1,16,"['3002', '3004', '1313', '2403']"
+Q1,15,"['3203', '2738']"
+Q2,15,"['2705', '2740']"
+Q1,15,"['2736', '2725', '2726', '3000', '1303', '2404']"
+Q1,15,"['2905', '2739']"
+Q2,15,"['2729', '2743']"
+Q1,15,"['2706', '2711']"
+Q1,15,"['2307', '2739', '2310']"
+Q1,15,['2703']
+Q1,14,"['2733', '3504', '2746', '3505']"
+Q3,14,"['2804', '2806', '2808', '2728']"
+Q2,14,"['2737', '1314']"
+Q3,14,"['1301', '1304', '2717', '1303']"
+Q3,14,"['1311', '2716']"
+Q2,14,"['3004', '3002', '2736', '2725', '2403']"
+Q1,14,['2728']
+Q2,14,"['2717', '2909', '1302', '3306']"
+Q2,14,['2700']
+Q2,14,['2700']
+Q1,14,"['2307', '2739', '2310']"
+Q2,13,['2735']
+Q1,13,"['2307', '2739', '2310']"
+Q1,13,['2719']
+Q1,13,"['2708', '2725']"
+Q2,13,"['2716', '1311']"
+Q1,13,['2738']
+Q1,13,"['2729', '1310', '1307', '2710', '2743']"
+Q1,13,"['2724', '2712']"
+Q2,13,['2734']
+Q1,13,['2700']
+Q1,13,['2739']
+Q1,12,"['2705', '2746']"
+Q2,12,['2700']
+Q1,12,"['2739', '2724', '2730', '2719']"
+Q1,12,"['1310', '2712', '2724']"
+Q1,12,['2808']
+Q1,12,"['2808', '2728']"
+Q1,12,['2700']
+Q3,11,"['2716', '2730']"
+Q2,11,['2735']
+Q2,11,"['1300', '2701']"
+Q2,11,['2739']
+Q1,11,"['2307', '2739', '2310']"
+Q2,11,['2731']
+Q4,11,"['2406', '2726', '2404']"
+Q2,11,['2700']
+Q2,11,['2738']
+Q2,11,['2700']
+Q2,11,['2712']
+Q2,11,['2738']
+Q1,11,"['2725', '2406']"
+Q1,11,"['2726', '2404']"
+Q1,11,"['2746', '2711']"
+Q2,11,['2700']
+Q2,11,"['1307', '1313']"
+Q2,11,"['3504', '2733']"
+Q1,11,"['1306', '2715', '2730']"
+Q2,11,"['3004', '3002', '2736', '2725', '2403']"
+Q1,11,"['2729', '2401', '2735']"
+Q2,11,['2731']
+Q1,11,['2741']
+Q1,11,"['2737', '2705']"
+Q1,11,['2719']
+Q2,11,['2700']
+Q1,11,"['2746', '2705']"
+Q3,11,"['2716', '1311']"
+Q2,11,"['1306', '2730']"
+Q1,11,['2735']
+Q1,11,['2802']
+Q2,11,"['2804', '2406', '2808', '2728']"
+Q4,11,"['2730', '1306']"
+Q2,11,['2700']
+Q1,11,"['2725', '2406']"
+Q2,11,"['2726', '2725', '2735']"
+Q3,11,['2735']
+Q1,10,['2739']
+Q1,10,"['2808', '2804', '2801']"
+Q1,10,"['2739', '1201', '3316']"
+Q1,10,"['2726', '1105', '1311', '1312', '2404', '2725']"
+Q1,10,"['2705', '2724', '2712']"
+Q4,10,"['2806', '2804', '2808', '2728']"
+Q1,10,"['2746', '2705']"
+Q1,10,"['2307', '2739', '2310']"
+Q2,10,['2738']
+Q2,10,"['2307', '2739', '2310']"
+Q2,10,"['2805', '3204', '3304', '3205']"
+Q2,10,"['2406', '2725', '2404']"
+Q1,10,['2700']
+Q2,10,['2738']
+Q2,10,['2715']
+Q1,10,['2731']
+Q1,10,['2731']
+Q1,10,"['3004', '3005', '2736', '2738']"
+Q4,10,"['2806', '2804', '2808', '2728']"
+Q1,10,"['1306', '2730', '1311']"
+Q1,10,"['2731', '2746']"
+Q2,10,['2700']
+Q2,10,['2705']
+Q2,10,"['2403', '2723']"
+Q2,10,['2738']
+Q2,9,"['2730', '1306']"
+Q3,9,"['2716', '1313', '1311']"
+Q1,9,"['2726', '2404']"
+Q3,9,['2712']
+Q3,9,['2700']
+Q1,9,"['2909', '3306', '1302', '2717']"
+Q1,9,"['2805', '1302']"
+Q2,9,['2739']
+Q2,9,"['2748', '2729']"
+Q2,9,"['3102', '2741', '3614']"
+Q1,9,"['1313', '1312']"
+Q1,9,"['2708', '2725']"
+Q1,9,"['2804', '1312', '2738']"
+Q2,9,"['2729', '2712', '1310']"
+Q2,9,['2719']
+Q2,9,"['2715', '2721']"
+Q2,9,['2700']
+Q1,9,"['2726', '2404']"
+Q2,9,['2700']
+Q2,9,['2700']
+Q2,9,"['2730', '2720', '1306']"
+Q2,9,['2746']
+Q1,9,"['2727', '2735']"
+Q2,8,['2700']
+Q2,8,"['2718', '3304', '2611']"
+Q2,8,['2748']
+Q3,8,"['2716', '1311']"
+Q4,8,"['2730', '1306']"
+Q2,8,['2700']
+Q2,8,['2700']
+Q1,8,"['2916', '2712', '2724']"
+Q3,8,"['2403', '2723']"
+Q1,8,"['1306', '2730']"
+Q2,8,['2700']
+Q2,8,"['2722', '3607']"
+Q2,8,['2734']
+Q2,8,"['2736', '2738']"
+Q2,8,"['3605', '2718', '2719', '2911']"
+Q2,8,"['2307', '2739', '2310']"
+Q2,8,['2700']
+Q2,8,['2700']
+Q2,8,['2735']
+Q2,8,['2700']
+Q1,8,['2700']
+Q2,8,['2700']
+Q2,8,['2700']
+Q2,8,"['1306', '2730']"
+Q2,7,"['2723', '2403']"
+Q3,7,"['2746', '1305', '2718', '2204']"
+Q3,7,"['2712', '2916']"
+Q3,7,"['2716', '1311']"
+Q1,7,['2739']
+Q2,7,"['3605', '2718', '2719', '2911']"
+Q3,7,['3500']
+Q2,7,"['2716', '1311']"
+Q1,7,"['2729', '2743']"
+Q2,7,['2700']
+Q1,7,['2700']
+Q2,7,['2731']
+Q1,7,"['2708', '2725', '2729']"
+Q2,7,['2748']
+Q2,7,"['1306', '2730']"
+Q2,7,['2700']
+Q1,7,"['3003', '3002', '1313', '1606', '1602', '1601', '1605']"
+Q1,7,"['2721', '2715']"
+Q2,7,['2700']
+Q3,7,['2725']
+Q2,7,"['1306', '2730']"
+Q1,7,"['2708', '2725']"
+Q2,6,"['3004', '3002', '2736', '2725', '2403']"
+Q1,6,['2740']
+Q2,6,['2705']
+Q2,6,"['2611', '3304', '2701', '2713']"
+Q3,6,['2735']
+Q3,6,['2700']
+Q2,6,"['2736', '2725', '2726', '3000', '1303', '2404']"
+Q3,6,['2735']
+Q3,6,['2700']
+Q1,6,"['2725', '2406']"
+Q1,6,['2700']
+Q1,6,['2700']
+Q3,6,"['2805', '3300', '1200']"
+Q1,6,"['2307', '2739', '2310']"
+Q2,6,['2700']
+Q2,6,"['3611', '2719']"
+Q2,6,"['2739', '3604', '3306', '2701']"
+Q1,6,['2746']
+Q2,6,"['2406', '2725', '2404']"
+Q2,6,['2700']
+Q2,6,['2708']
+Q1,6,"['2726', '2725', '2735']"
+Q1,6,['2700']
+Q2,6,['2802']
+Q1,6,['2700']
+Q2,5,['2746']
+Q2,5,['2712']
+Q2,5,"['2808', '2728']"
+Q2,5,"['2723', '2403']"
+Q2,5,"['1300', '2701']"
+Q3,5,['3400']
+Q2,5,"['2808', '2728']"
+Q2,5,"['2739', '3307']"
+Q2,5,['2700']
+Q3,5,"['2732', '2746']"
+Q1,5,"['2748', '2738', '2739', '2729', '2708']"
+Q2,5,['2700']
+Q2,5,['2802']
+Q2,5,['2700']
+Q1,5,['2700']
+Q1,5,"['2725', '2406']"
+Q4,5,"['3605', '2718', '2204']"
+Q2,5,"['2742', '3612', '2732']"
+Q2,5,['2735']
+Q4,5,"['2729', '2743']"
+Q2,5,"['1310', '2712', '2724']"
+Q3,5,"['2919', '2735']"
+Q2,5,"['2718', '3304', '2611']"
+Q2,5,['2700']
+Q2,5,['2705']
+Q1,5,['2738']
+Q2,5,['2700']
+Q2,5,"['1310', '2712']"
+Q3,5,['2800']
+Q3,5,"['2746', '2740', '2705']"
+Q1,5,"['2726', '2404']"
+Q3,5,"['2716', '2730']"
+Q2,5,"['1300', '2700', '2800', '3000']"
+Q1,5,['2745']
+Q1,5,"['2725', '2406']"
+Q1,5,"['3612', '2732']"
+Q1,5,"['2403', '2723', '2745']"
+Q1,5,['2735']
+Q3,5,"['3610', '2731', '2204']"
+Q1,5,"['2741', '2730', '2720']"
+Q1,5,['2742']
+Q3,5,['2800']
+Q1,5,['2719']
+Q3,5,['2746']
+Q1,5,['2731']
+Q1,5,['2729']
+Q1,5,['2719']
+Q2,5,['2747']
+Q1,5,"['2746', '2809', '2731']"
+Q2,5,"['2728', '2808', '2802']"
+Q2,5,['2700']
+Q2,5,['2700']
+Q4,5,['2705']
+Q2,5,['2748']
+Q2,5,"['1311', '2730', '1306']"
+Q2,5,"['1300', '2701']"
+Q3,5,['2735']
+Q3,5,['2700']
+Q2,5,['2731']
+Q3,5,['2728']
+Q2,5,"['3501', '2701']"
+Q1,5,['2729']
+Q2,5,['2700']
+Q2,5,"['2307', '2739', '2310']"
+Q2,5,['2700']
+Q1,5,"['1303', '2716', '1312', '1307']"
+Q2,5,['2700']
+Q2,5,"['2716', '1313', '1311']"
+Q3,5,['2732']
+Q1,5,"['2743', '2729', '1309', '1311', '2716']"
+Q2,5,['2700']
+Q1,5,['2729']
+Q1,5,['2700']
+Q2,5,['2738']
+Q2,5,"['1300', '2701']"
+Q2,5,"['2704', '1308']"
+Q1,5,"['2737', '2705']"
+Q2,5,['2700']
+Q2,5,"['2725', '2406']"
+Q1,5,"['2307', '2739', '2310']"
+Q2,5,['2700']
+Q2,5,"['2808', '2728']"
+Q2,5,"['2307', '2739', '2310']"
+Q2,5,"['2916', '1106', '2712']"
+Q1,5,"['2713', '2406', '2739', '2401', '2404', '2725', '2726']"
+Q2,5,['2731']
+Q1,5,"['2307', '2739', '2310']"
+Q3,5,"['2406', '2726', '2404']"
+Q1,4,['2700']
+Q2,4,['2700']
+Q1,4,"['2725', '2406']"
+Q2,4,"['2736', '2701']"
+Q1,4,['2700']
+Q1,4,['2739']
+Q2,4,['2734']
+Q3,4,['2802']
+Q2,4,['2735']
+Q2,4,['2700']
+Q2,4,"['2716', '2728']"
+Q1,4,"['2739', '2724', '2730', '2719']"
+Q1,4,"['2307', '2739', '2310']"
+Q1,4,['2700']
+Q2,4,['2712']
+Q2,4,"['2712', '1314', '2732']"
+Q2,4,['2739']
+Q2,4,['2700']
+Q3,4,"['2716', '1311']"
+Q2,4,['2724']
+Q2,4,['2700']
+Q4,4,['2735']
+Q2,4,['2700']
+Q2,4,"['2730', '1306']"
+Q1,4,['2742']
+Q2,4,"['2739', '2730', '1306', '2713']"
+Q2,4,['2734']
+Q4,4,"['2741', '3614']"
+Q2,4,"['2736', '2729', '2743']"
+Q1,4,['2714']
+Q2,4,['2700']
+Q1,4,"['3004', '3002', '2736', '2725', '2403']"
+Q1,4,"['2716', '1311']"
+Q1,4,"['2736', '2725', '2726', '3000', '1303', '2404']"
+Q3,4,"['2732', '2746']"
+Q1,4,['2739']
+Q1,4,['2735']
+Q2,3,"['1300', '2701']"
+Q2,3,"['2701', '2739', '2719', '3306']"
+Q2,3,"['2208', '2742', '2207']"
+Q3,3,"['3308', '2719']"
+Q2,3,['2700']
+Q2,3,"['1300', '2701']"
+Q4,3,['2700']
+Q2,3,"['3004', '2403', '2723']"
+Q2,3,"['1312', '1313', '1303', '1305']"
+Q2,3,['2700']
+Q1,3,"['2725', '2726', '2736', '3004']"
+Q2,3,"['2748', '2743']"
+Q4,3,"['2738', '3206']"
+Q2,3,"['3605', '2718', '2719', '2911']"
+Q2,3,"['1306', '2730']"
+Q2,3,['2700']
+Q2,3,"['2732', '2745']"
+Q1,3,['2731']
+Q3,3,"['2702', '2746', '2734']"
+Q2,3,['2700']
+Q2,3,"['2724', '2712', '1310']"
+Q3,3,"['3501', '2701']"
+Q1,3,"['2746', '2809', '2731']"
+Q3,3,"['1307', '1309', '2710', '2734']"
+Q3,3,['2740']
+Q2,3,['2738']
+Q3,3,['2745']
+Q2,3,"['2403', '2723', '2725']"
+Q1,3,['2735']
+Q2,3,['2700']
+Q3,3,['2700']
+Q2,3,"['2303', '2726', '2725', '2400', '1307', '1311', '1314']"
+Q2,3,['2700']
+Q2,3,"['3605', '2718', '2719', '2911']"
+Q1,3,"['2746', '3504', '2733']"
+Q2,3,['2735']
+Q3,3,"['3611', '2920', '2736', '3003']"
+Q2,3,"['1300', '2701']"
+Q1,3,"['2746', '2735']"
+Q2,3,['2712']
+Q1,3,"['2307', '2739', '2310']"
+Q2,3,"['2802', '3200', '3306']"
+Q3,3,['2800']
+Q1,3,"['2708', '3003', '1302', '1501', '2746']"
+Q3,3,"['2730', '1306']"
+Q1,3,"['2707', '1201', '3314', '2921']"
+Q1,3,['2700']
+Q1,3,"['2736', '2803', '2738']"
+Q2,3,['2700']
+Q3,3,['2800']
+Q2,3,['2700']
+Q2,3,['2700']
+Q2,3,['2738']
+Q2,3,['2740']
+Q2,3,['2700']
+Q1,3,['2700']
+Q2,3,['2700']
+Q3,3,['2700']
+Q1,3,"['2746', '3504', '2741', '3501', '2734']"
+Q2,3,['2700']
+Q2,3,['2700']
+Q1,3,"['2746', '2730']"
+Q3,3,"['2716', '2730']"
+Q2,3,"['2726', '2725', '2403', '2404']"
+Q1,3,"['2708', '3003', '1302', '1501', '2746']"
+Q2,3,"['2730', '2720', '2735']"
+Q2,3,"['2716', '1311']"
+Q1,3,"['2913', '2730', '2729']"
+Q1,3,"['2307', '2739', '2310']"
+Q4,2,"['2713', '2725']"
+Q1,2,['2700']
+Q3,2,['2700']
+Q2,2,['2700']
+Q2,2,['2700']
+Q1,2,"['2702', '2722']"
+Q2,2,['2725']
+Q2,2,"['2732', '3304', '3612', '3306']"
+Q2,2,"['2725', '2726', '2400', '1312', '2723']"
+Q3,2,['2731']
+Q2,2,['2700']
+Q2,2,['2700']
+Q2,2,['2700']
+Q2,2,"['1300', '2701']"
+Q3,2,"['2738', '2728', '2800']"
+Q2,2,"['2307', '2739', '2310']"
+Q4,2,['2705']
+Q3,2,['2734']
+Q4,2,"['2404', '1312', '1311', '2725', '2406']"
+Q1,2,"['2719', '1211', '3304', '3306']"
+Q2,2,['2700']
+Q1,2,"['1311', '2730', '1306']"
+Q3,2,['2746']
+Q3,2,"['2745', '2723']"
+Q1,2,"['3200', '2738']"
+Q3,2,['2729']
+Q2,2,['2700']
+Q4,2,['2705']
+Q2,2,['2700']
+Q3,2,"['3501', '2701']"
+Q3,2,"['2732', '2746']"
+Q2,2,['2700']
+Q1,2,"['3605', '2308', '2719', '3306', '2911']"
+Q2,2,['2700']
+Q1,2,"['2736', '2740']"
+Q2,2,['2731']
+Q2,2,['2700']
+Q3,2,['2708']
+Q2,2,['2700']
+Q2,2,['2700']
+Q2,2,['2731']
+Q2,2,['2700']
+Q2,2,"['2702', '2722']"
+Q1,2,['2700']
+Q3,2,"['2728', '2746', '2735']"
+Q1,2,"['2913', '2730', '2729']"
+Q2,2,"['2725', '2721']"
+Q2,2,['2700']
+Q4,2,"['1311', '2716']"
+Q3,2,"['2704', '1308']"
+Q1,2,['2700']
+Q3,2,['2700']
+Q3,2,['2700']
+Q2,2,['2738']
+Q2,2,"['2307', '2739', '2310']"
+Q1,2,"['2734', '1307', '2722']"
+Q1,2,"['2737', '2705']"
+Q4,2,['2700']
+Q4,1,['2700']
+Q3,1,['2735']
+Q3,1,['2700']
+Q2,1,['2700']
+Q2,1,['2700']
+Q2,1,['2700']
+Q2,1,['2738']
+Q2,1,"['2716', '1311']"
+Q4,1,"['2806', '2804', '2808', '2728']"
+Q3,1,"['3004', '3002', '2736', '2725', '2403']"
+Q1,1,"['2804', '2731', '2809']"
+Q3,1,['2731']
+Q3,1,"['2730', '1306']"
+Q4,1,['2700']
+Q1,1,"['2708', '3003', '1302', '1501', '2746']"
+Q3,1,"['2716', '2730']"
+Q1,1,"['1304', '2742', '2732']"
+Q4,1,['2705']
+Q3,1,"['3501', '2701']"
+Q2,1,['2735']
+Q3,1,['2748']
+Q2,1,['2703']
+Q2,1,['2738']
+Q3,1,"['3504', '2733']"
+Q1,1,"['2808', '2728']"
+Q2,1,['2700']
+Q3,1,"['2730', '1306']"
+Q1,1,"['2307', '2739', '2310']"
+Q3,1,['2700']
+Q1,1,['2700']
+Q2,1,"['2719', '1211', '3304']"
+Q2,1,"['2716', '2728']"
+Q3,1,['2800']
+Q2,1,['2700']
+Q2,1,['2708']
+Q3,1,"['3004', '1313']"
+Q3,1,['2731']
+Q4,1,"['2738', '3206']"
+Q2,1,['2700']
+Q2,1,"['2736', '2729', '2743']"
+Q3,1,"['2716', '2730']"
+Q2,1,"['2728', '2746']"
+Q3,1,['2712']
+Q1,1,"['2705', '2724', '1314']"
+Q3,1,"['2406', '2726', '2404']"
+Q2,1,['2700']
+Q2,1,['2700']
+Q2,1,"['2730', '1306']"
+Q1,1,"['2700', '1300', '1100', '2800']"
+Q4,1,"['2732', '2746']"
+Q3,1,['2748']
+Q3,1,['2700']
+Q3,1,['2708']
+Q2,1,"['2916', '2712', '2724']"
+Q4,1,['2730']
+Q2,1,"['2722', '2734']"
+Q1,1,['2739']
+Q3,1,"['2741', '2730']"
+Q1,1,"['2715', '2730']"
+Q2,1,"['2740', '2403', '2723']"
+Q1,1,"['2307', '2739', '2310']"
+Q3,1,"['2716', '2730']"
+Q2,1,"['2729', '2712', '1310']"
+Q4,0,['2700']
+Q4,0,['2705']
+Q3,0,"['2729', '2743']"
+Q3,0,['2745']
+Q1,0,"['3400', '2725', '2400', '1313', '2739']"
+Q2,0,['2735']
+Q3,0,['2735']
+Q3,0,['2700']
+Q3,0,['2800']
+Q2,0,['2700']
+Q2,0,"['3501', '2701']"
+Q4,0,"['2710', '2702']"
+Q2,0,['2701']
+Q2,0,"['2904', '2739']"
+Q1,0,"['3612', '2742']"
+Q4,0,['2741']
+Q1,0,"['2739', '2738', '2735']"
+Q2,0,['2700']
+Q3,0,['2700']
+Q3,0,"['2718', '2701']"
+Q3,0,"['3611', '2920', '2736', '3003']"
+Q2,0,['2700']
+Q2,0,['2738']
+Q3,0,['2700']
+Q1,0,"['2742', '3612']"
+Q3,0,['2708']
+Q3,0,"['2741', '2705']"
+Q3,0,['2700']
+Q3,0,"['3501', '2701']"
+Q2,0,['2700']
+Q3,0,['2700']
+Q1,0,['2700']
+Q3,0,"['2747', '2746']"
+Q1,0,['2705']
+Q4,0,"['2746', '2735']"
+Q1,0,['2700']
+Q3,0,['2740']
+Q4,0,['2700']
+Q3,0,['2700']
+Q3,0,['2700']
+Q2,0,['2719']
+Q2,0,['2738']
+Q2,0,"['2730', '2725', '2713', '1306']"
+Q4,0,['2728']
+Q4,0,['2705']
+Q3,0,"['2723', '2403']"
+Q1,0,"['3607', '2734', '2722']"
+Q2,0,['2700']
+Q3,0,"['1313', '1311', '3004']"
+Q3,0,['2733']
+Q3,0,"['2725', '2726', '2400', '1312', '2723']"
+Q1,0,['2746']
+Q1,0,['2700']
+Q2,0,"['2736', '2729', '2743']"
+Q2,0,"['2722', '2734']"
+Q2,0,['2708']
+Q2,0,['2739']
+Q3,0,['2700']
+Q4,0,['2731']
+Q2,0,"['2742', '3601']"
+Q4,0,['2705']
+Q4,0,"['2738', '3206']"
+Q1,0,['2700']
+Q4,0,['2738']
+Q3,0,"['3611', '2920', '2736', '3003']"
+Q2,0,['2712']
+Q3,0,['2735']
+Q3,0,['2700']
+Q2,0,"['2729', '1110', '3400', '1103', '2743']"
+Q2,0,"['3308', '2719']"
+Q4,0,"['2712', '2724']"
+Q3,0,"['2725', '2708']"
+Q4,0,['2705']
+Q4,0,['2702']
+Q3,0,['2705']
+Q2,0,['2738']
+Q2,0,['2735']
+Q3,0,['2700']
+Q4,0,['2705']
+Q3,0,"['2732', '2746']"
+Q3,0,"['1311', '1307', '1101']"
+Q2,0,"['3612', '2732', '2722', '2745', '2702']"
+Q3,0,['2700']
+Q2,0,"['1310', '2712', '2724']"
+Q2,0,['2731']
+Q2,0,"['1306', '2730']"
+Q3,0,['2731']
+Q1,0,['2714']
+Q4,0,"['2729', '2743']"
+Q4,0,['2738']
+Q4,0,['2741']
+Q2,0,['2738']
+Q3,0,['2700']
+Q4,0,"['2734', '2722']"
+Q1,0,['2700']
+Q4,0,['2729']
+Q2,0,['2739']
+Q4,0,['2746']
+Q3,0,['2746']
+Q1,0,"['2726', '2725']"
+Q2,0,['2700']
+Q4,0,"['2712', '1310']"
+Q4,0,"['2808', '2738', '2728']"
+Q2,0,['2700']
+Q3,0,['2700']
+Q2,0,"['2705', '2746']"
+Q1,0,"['2307', '1309', '3005', '2710', '2735']"
+Q4,0,['2705']
+Q2,0,['2739']
+Q2,0,"['1401', '2719']"
+Q1,0,"['2720', '2705']"
+Q3,0,"['2738', '2728', '2808', '2921']"
+Q2,0,['2700']
+Q3,0,"['2735', '2712']"
+Q2,0,"['2735', '2723', '2745']"
+Q3,0,['2740']
+Q4,0,"['2405', '2404', '2725']"
+Q3,0,['2700']
+Q3,0,['2700']
+Q4,0,"['2710', '2702']"
+Q1,0,['2700']
+Q3,0,['2701']

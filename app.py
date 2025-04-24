@@ -19,13 +19,6 @@ if response_pub.status_code==200:
 else:
     print("Failed to download publication data!")
 
-ASJC_DATA_URL = "https://raw.githubusercontent.com/zanemit/QS-papers-citations-interactive/main/data/asjc_data.csv"
-response_asjc = requests.get(ASJC_DATA_URL)
-if response_pub.status_code==200:
-    asjc_df = pd.read_csv(StringIO(response_asjc.text), index_col=0)
-else:
-    print("Failed to download asjc data!")
-
 # Dash app setup
 app = dash.Dash(__name__)
 server = app.server
@@ -99,39 +92,6 @@ def generate_truncated_normal(size, mean, lower, upper, std_dev=1):
           a, b = (lower - mean) / std_dev, (upper - mean) / std_dev
           return scipy.stats.truncnorm.rvs(a, b, loc=mean, scale=std_dev, size=size)
 
-def merge_publications_with_asjc(publication_data, asjc_data):
-    publication_df = publication_data.copy()
-    asjc_df = asjc_data.copy()
-
-    # ###### SEPARATE PAPERS IN NICHE JOURNALS (one ASJC code) ######
-    # Preliminary merge -- on journal title
-    publication_df = publication_df.merge(
-        asjc_df.loc[:,['Source Title', 'All Science Journal Classification Codes (ASJC)']],
-        on='Source Title', how='left')
-
-    # Fallback merge
-    missing_asjc_mask = publication_df['All Science Journal Classification Codes (ASJC)'].isna()
-    print(f"{missing_asjc_mask.sum()} papers could not be matched based on journal title!")
-    fallback_merge = publication_df.loc[missing_asjc_mask].drop(columns=['All Science Journal Classification Codes (ASJC)']).merge(
-                    asjc_df.loc[:, ['ISSN', 'All Science Journal Classification Codes (ASJC)']],
-                    on='ISSN',  how='left')
-    publication_df.loc[missing_asjc_mask, 'All Science Journal Classification Codes (ASJC)'] = fallback_merge.loc[:,'All Science Journal Classification Codes (ASJC)'].values
-
-    # Fallback merge 2: try removing brackets from source titles
-    missing_asjc_mask = publication_df['All Science Journal Classification Codes (ASJC)'].isna()
-    print(f"{missing_asjc_mask.sum()} papers could not be matched even after considering ISSN!")
-    publication_df.loc[missing_asjc_mask, 'Source Title'] = publication_df.loc[missing_asjc_mask,'Source Title'].apply(lambda text: re.sub(r'\(.*?\)', '', text).strip())   # keep only stuff before brackets
-    fallback_merge2 = publication_df.loc[missing_asjc_mask].drop(columns=['All Science Journal Classification Codes (ASJC)']).merge(
-                    asjc_df.loc[:, ['Source Title', 'All Science Journal Classification Codes (ASJC)']],
-                    on='Source Title',  how='left')
-    publication_df.loc[missing_asjc_mask, 'All Science Journal Classification Codes (ASJC)'] = fallback_merge2.loc[:,'All Science Journal Classification Codes (ASJC)'].values
-    print(f"{publication_df['All Science Journal Classification Codes (ASJC)'].isna().sum()} papers could not be matched even after removing brackets!")
-
-    # Not all titles could be matched with a title in asjc_df
-    publication_df = publication_df.dropna(subset='All Science Journal Classification Codes (ASJC)')
-
-    return publication_df
-
 def compute_citations_per_paper(publication_data_asjc, self_citation_fraction):
     """
     publication_data_asjc (pd dataframe) : publication data with asjc codes merged
@@ -180,16 +140,17 @@ def compute_H(publication_data_asjc, self_citation_fraction):
 
     return H
 
-def simulate_publications_and_citations(publication_data, asjc_data, 
+def simulate_publications_and_citations(publication_data, 
                                         PERC_TO_LOWER_Q4, PERC_TO_LOWER_Q3, 
                                         PERC_TO_LOWER_Q2, Q4_TO_Q3_EQUIVALENT=2, 
                                         Q4_TO_Q2_EQUIVALENT=4, Q4_TO_Q1_EQUIVALENT=8,
-                                 iters=1000, SELF_CITATION_FRACTION=0.37):
-    pub_df = merge_publications_with_asjc(publication_data, asjc_data)
+                                        iters=1000, SELF_CITATION_FRACTION=0.37):
+    # pub_df = merge_publications_with_asjc(publication_data, asjc_data)
 
-    pub_df = pub_df.loc[:, [
-        'journal_quartile', 'Citations', 'All Science Journal Classification Codes (ASJC)'
-        ]].copy()
+    # pub_df = pub_df.loc[:, [
+    #     'journal_quartile', 'Citations', 'All Science Journal Classification Codes (ASJC)'
+    #     ]].copy()
+    pub_df = publication_data.copy()
 
     # hyperparameter dictionaries
     equivalent_paper_dict={
@@ -307,7 +268,6 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
     
     initial_papers, initial_citations, initial_CPP, initial_H, final_papers, final_citations, simulated_CPP, simulated_H = simulate_publications_and_citations(
          publication_data=pub_df,
-         asjc_data=asjc_df,
          PERC_TO_LOWER_Q4=q4_slider,
          PERC_TO_LOWER_Q3=q3_slider,
          PERC_TO_LOWER_Q2=q2_slider,
@@ -341,7 +301,7 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
         html.P("\nATJAUNINIET LAPU, LAI SIMULĒTU VĒLREIZ!")
     ])
 
-    runs = np.arange(1, len(simulation_history)+1)
+    runs = np.arange(1, len(simulation_history))
     simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
 
     # Add hover text (inputs used for each simulation run)
