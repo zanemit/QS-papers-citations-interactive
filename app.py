@@ -5,6 +5,7 @@ import re
 import os
 from io import StringIO
 import requests
+from plotly.graph_objects as go
 import dash
 from dash import dcc, html, Input, Output, State
 
@@ -28,6 +29,8 @@ else:
 # Dash app setup
 app = dash.Dash(__name__)
 server = app.server
+
+simulation_history=[]
 
 # DEFAULT PARAMETERS
 DEFAULT_ITERS = 100
@@ -73,6 +76,8 @@ app.layout = html.Div([
 
     html.H3("Rezultāti"),
     html.Pre(id="output-results")  # Output display
+
+    dcc.Graph(id='simulation-plot')
 ])
 
 def generate_truncated_normal(size, mean, lower, upper, std_dev=1):
@@ -267,7 +272,8 @@ def simulate_publications_and_citations(publication_data, asjc_data,
     return initial_papers, initial_citations, initial_CPP, initial_H, final_papers, final_citations, simulated_CPP, simulated_H
 
 @app.callback(
-    Output("output-results", "children"),
+    [Output("output-results", "children"),
+    Output("simulation-plot", "figure")]
     Input("run-button", "n_clicks"),
     [
         State("q4-slider", "value"), 
@@ -283,7 +289,7 @@ def simulate_publications_and_citations(publication_data, asjc_data,
 
 def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q1, self_cite, iters_input):
     if n_clicks==0:
-            return "Nospiediet `Simulēt rezultātus!`"
+            return "Nospiediet `Simulēt rezultātus!`", go.Figure()
     
     initial_papers, initial_citations, initial_CPP, initial_H, final_papers, final_citations, simulated_CPP, simulated_H = simulate_publications_and_citations(
          publication_data=pub_df,
@@ -298,13 +304,58 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
          iters=iters_input
     ) 
 
-    return html.Div([
+    simulation_history.append({
+        "q4_slider": q4_slider,
+        "q3_slider": q3_slider,
+        "q2_slider": q2_slider,
+        "q4_q3": q4_q3,
+        "q4_q2": q4_q2,
+        "q4_q1": q4_q1,
+        "self_cite": self_cite,
+        "iters_input": iters_input,
+        "final_papers": final_papers.mean(),
+        "final_citations": final_citations.mean(),
+        "simulated_CPP": simulated_CPP.mean(),
+        "simulated_H": simulated_H.mean(),
+    })
+
+    result_text = html.Div([
          html.P(f"Paredzamais publikāciju skaits: {final_papers.mean():.0f} ± {(final_papers.std()/np.sqrt(len(final_papers))):.0f}. Procentuālās izmaiņas: {100*((final_papers.mean()/initial_papers)-1):.1f}%."),
          html.P(f"Paredzamais citējumu skaits: {final_citations.mean():.0f} ± {(final_citations.std()/np.sqrt(len(final_citations))):.0f}. Procentuālās izmaiņas: {100*((final_citations.mean()/initial_citations)-1):.1f}%."),
          html.P(f"Paredzamais 'Citations per Paper' rādītājs: {simulated_CPP.mean():.1f} ± {(simulated_CPP.std()/np.sqrt(len(simulated_CPP))):.1f}. Procentuālās izmaiņas: {100*((simulated_CPP.mean()/initial_CPP)-1):.1f}%."),
          html.P(f"Paredzamais 'H-index': {simulated_H.mean():.1f} ± {(simulated_H.std()/np.sqrt(len(simulated_H))):.1f}. Procentuālās izmaiņas: {100*((simulated_H.mean()/initial_H)-1):.1f}%."),
         html.P("\nATJAUNINIET LAPU, LAI SIMULĒTU VĒLREIZ!")
     ])
+
+    runs = np.arange(1, len(simulation_history)+1)
+    simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
+
+    # Add hover text (inputs used for each simulation run)
+    hover_text = [f"Q4 Slider: {run['q4_slider']}, Q3 Slider: {run['q3_slider']}, Q2 Slider: {run['q2_slider']}, "
+                  f"Q4-Q3: {run['q4_q3']}, Q4-Q2: {run['q4_q2']}, Q4-Q1: {run['q4_q1']}, "
+                  f"Self-Cite: {run['self_cite']}, Iters: {run['iters_input']}" for run in simulation_history]
+
+    # Create the plot data
+    plot_data = go.Scatter(
+        x=runs, 
+        y=simulated_CPP_history, 
+        mode="lines+markers", 
+        name="Final Papers",
+        text=hover_text,  # Set hover text to display the input values
+        hoverinfo="text"  # Only show the text when hovering
+    )
+    
+    figure = {
+        "data": [plot_data],
+        "layout": go.Layout(
+            title="Simulāciju vēsture",
+            xaxis={"title": "Simulācijas #"},
+            yaxis={"title": "Citations per Paper"}
+        )
+    }
+
+    return result_text, figure
+
 
 if __name__ == '__main__':
      port = int(os.environ.get('PORT', 8080))
