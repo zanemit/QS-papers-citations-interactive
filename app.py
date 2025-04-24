@@ -270,14 +270,14 @@ def simulate_publications_and_citations(publication_data, asjc_data,
     Output("output-results", "children"),
     Input("run-button", "n_clicks"),
     [
-        Input("q4-slider", "value"), 
-        Input("q3-slider", "value"), 
-        Input("q2-slider", "value"), 
-        Input("q4-q3", "value"), 
-        Input("q4-q2", "value"), 
-        Input("q4-q1", "value"), 
-        Input("self-cite", "value"), 
-        Input("iters-input", "value")
+        State("q4-slider", "value"), 
+        State("q3-slider", "value"), 
+        State("q2-slider", "value"), 
+        State("q4-q3", "value"), 
+        State("q4-q2", "value"), 
+        State("q4-q1", "value"), 
+        State("self-cite", "value"), 
+        State("iters-input", "value")
      ]
 )
 
