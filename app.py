@@ -166,7 +166,7 @@ def compute_H(publication_data_asjc, self_citation_fraction):
         raise ValueError("Self-citation fraction must be a number between 0 and 1")
     pub_df = publication_data_asjc.copy()
 
-    pub_df['Journal ASJC count'] = pub_df['All Science Journal Classification Codes (ASJC)'].apply(lambda s: len(s))
+    pub_df['Journal ASJC count'] = pub_df['All Science Journal Classification Codes (ASJC)'].apply(lambda s: len(s)/8)
     pub_df_niche = pub_df.loc[pub_df['Journal ASJC count']==1, :].reset_index()
 
     valid_citation_fraction = 1-self_citation_fraction
