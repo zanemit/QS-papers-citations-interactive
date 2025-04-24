@@ -177,6 +177,8 @@ def compute_H(publication_data_asjc, self_citation_fraction):
     while ((pub_df_niche['Citations']*valid_citation_fraction)>h1).sum() > h1:
         h1+=1
 
+    print(f"PUB SHAPE: {pub_df.shape[0]}, NICHE SHAPE: {pub_df_niche.shape[0]}, VALID FRAC: {valid_citation_fraction}")
+
     H = (h0*0.33) + (h1*0.67)
 
     return H
