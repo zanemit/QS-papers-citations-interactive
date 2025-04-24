@@ -6,6 +6,7 @@ import os
 from io import StringIO
 import requests
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 import dash
 from dash import dcc, html, Input, Output, State
 
@@ -86,6 +87,44 @@ app.layout = html.Div([
 
     dcc.Graph(id='simulation-plot')
 ])
+
+def create_simulation_plot(simulation_history):
+    runs = np.arange(0, len(simulation_history))
+
+    # extract vals
+    h_values = [run["simulated_H"] for run in simulation_history]
+    cpp_values = [run["simulated_CPP"] for run in simulation_history]
+    citations = [run["final_citations"] for run in simulation_history]
+    papers = [run["final_papers"] for run in simulation_history]
+
+    # define hover text
+    hover_text = [
+        f"% Q4 removed: {run['q4_slider']}<br>"
+        f"% Q3 removed: {run['q3_slider']}<br>"
+        f"% Q2 removed: {run['q2_slider']}<br>"
+        f"Q4→Q3: {run['q4_q3']} | Q4→Q2: {run['q4_q2']} | Q4→Q1: {run['q4_q1']}<br>"
+        f"Self-Cite: {run['self_cite']}"
+        for run in simulation_history
+    ]
+
+    # plot
+    fig = make_subplots(
+        rows=2, cols=2,
+        subplot_titles=("Publikāciju skaits", "Citējumu skaits", "Citations per Paper", "H-Index")
+    )
+
+    fig.add_trace(go.Scatter(x=runs, y=papers, mode="lines+markers", name="Publikāciju skaits", text=hover_text, hoverinfo="text"), row=2, col=2)
+    fig.add_trace(go.Scatter(x=runs, y=citations, mode="lines+markers", name="Citējumu skaits", text=hover_text, hoverinfo="text"), row=1, col=2)
+    fig.add_trace(go.Scatter(x=runs, y=cpp_values, mode="lines+markers", name="CPP", text=hover_text, hoverinfo="text"), row=2, col=1)
+    fig.add_trace(go.Scatter(x=runs, y=h_values, mode="lines+markers", name="H", text=hover_text, hoverinfo="text"), row=1, col=1)
+
+    fig.update_layout(
+        height=700, width=950, 
+        title_text="Simulāciju vēsture",
+        showlegend=False
+    )
+
+    return fig
 
 def generate_truncated_normal(size, mean, lower, upper, std_dev=1):
           # Compute the truncated normal distribution parameters
@@ -301,32 +340,33 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
         html.P("\nATJAUNINIET LAPU, LAI SIMULĒTU VĒLREIZ!")
     ])
 
-    runs = np.arange(1, len(simulation_history))
-    simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
+    # runs = np.arange(1, len(simulation_history))
+    # simulated_CPP_history = [run["simulated_CPP"] for run in simulation_history]
 
-    # Add hover text (inputs used for each simulation run)
-    hover_text = [f"% Q4 removed: {run['q4_slider']}, % Q3 removed: {run['q3_slider']}, % Q2 removed: {run['q2_slider']}, "
-                  f"Q4-Q3: {run['q4_q3']}, Q4-Q2: {run['q4_q2']}, Q4-Q1: {run['q4_q1']}, "
-                  f"Self-Cite: {run['self_cite']}, Iters: {run['iters_input']}" for run in simulation_history]
+    # # Add hover text (inputs used for each simulation run)
+    # hover_text = [f"% Q4 removed: {run['q4_slider']}, % Q3 removed: {run['q3_slider']}, % Q2 removed: {run['q2_slider']}, "
+    #               f"Q4-Q3: {run['q4_q3']}, Q4-Q2: {run['q4_q2']}, Q4-Q1: {run['q4_q1']}, "
+    #               f"Self-Cite: {run['self_cite']}, Iters: {run['iters_input']}" for run in simulation_history]
 
-    # Create the plot data
-    plot_data = go.Scatter(
-        x=runs, 
-        y=simulated_CPP_history, 
-        mode="lines+markers", 
-        name="Final Papers",
-        text=hover_text,  # Set hover text to display the input values
-        hoverinfo="text"  # Only show the text when hovering
-    )
+    # # Create the plot data
+    # plot_data = go.Scatter(
+    #     x=runs, 
+    #     y=simulated_CPP_history, 
+    #     mode="lines+markers", 
+    #     name="Final Papers",
+    #     text=hover_text,  # Set hover text to display the input values
+    #     hoverinfo="text"  # Only show the text when hovering
+    # )
     
-    figure = {
-        "data": [plot_data],
-        "layout": go.Layout(
-            title="Simulāciju vēsture",
-            xaxis={"title": "Simulācijas #"},
-            yaxis={"title": "Citations per Paper"}
-        )
-    }
+    # figure = {
+    #     "data": [plot_data],
+    #     "layout": go.Layout(
+    #         title="Simulāciju vēsture",
+    #         xaxis={"title": "Simulācijas #"},
+    #         yaxis={"title": "Citations per Paper"}
+    #     )
+    # }
+    figure = create_simulation_plot(simulation_history)
 
     return result_text, figure
 
