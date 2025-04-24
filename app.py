@@ -15,7 +15,7 @@ np.random.seed(42)
 PUB_DATA_URL = "https://raw.githubusercontent.com/zanemit/QS-papers-citations-interactive/main/data/publication_data.csv"
 response_pub = requests.get(PUB_DATA_URL)
 if response_pub.status_code==200:
-    pub_df = pd.read_csv(StringIO(response_pub.text), index_col=0)
+    pub_df = pd.read_csv(StringIO(response_pub.text))
 else:
     print("Failed to download publication data!")
 
@@ -30,7 +30,22 @@ else:
 app = dash.Dash(__name__)
 server = app.server
 
-simulation_history=[]
+# initialise simulation history with the 2018-2022 values
+simulation_history = []
+# {
+#     "q4": 0,
+#     "q3": 0,
+#     "q2": 0,
+#     "q4_q3": None,
+#     "q4_q2": None,
+#     "q4_q1": None,
+#     "self_cite": 0.37,
+#     "iters_input": None,
+#     "final_papers": 788,
+#     "final_citations": 12871,
+#     "simulated_CPP": 8.2,
+#     "simulated_H": 27.3,
+# }]
 
 # DEFAULT PARAMETERS
 DEFAULT_ITERS = 100
