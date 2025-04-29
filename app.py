@@ -8,6 +8,9 @@ from plotly.subplots import make_subplots
 import dash
 from dash import dcc, html, Input, Output, State
 
+import time
+import psutil
+
 np.random.seed(42)
 
 # Load data
@@ -290,6 +293,8 @@ def simulate_publications_and_citations(publication_data,
 )
 
 def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q1, self_cite, iters_input):
+    start = time.time()
+
     if n_clicks==0:
             return "Nospiediet `Simulēt rezultātus!`", go.Figure()
     
@@ -329,9 +334,15 @@ def run_simulation(n_clicks, q4_slider, q3_slider, q2_slider, q4_q3, q4_q2, q4_q
 
     
     figure = create_simulation_plot(simulation_history)
+    
+    end = time.time()
+    process = psutil.Process(os.getpid())
+    mem = process.memory_info().rss / 1024 / 1024
+    print(f"Execution time: {end - start:.2f} seconds")
+    print(f"Memory used: {mem:.2f} MB")
 
     return result_text, figure
 
 
 if __name__ == '__main__':
-     app.run_server(debug=True)
+     app.run(debug=True)
